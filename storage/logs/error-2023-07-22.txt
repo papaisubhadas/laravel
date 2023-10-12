@@ -1,0 +1,2634 @@
+2023-07-22 00:02:45
+-------------------------------------------------
+URL : https://3.28.244.244/+CSCOE+/logon.html
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route +CSCOE+/logon.html could not be found.
+2023-07-22 00:05:45
+-------------------------------------------------
+URL : https://3.28.244.244/cgi-bin/login.cgi
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route cgi-bin/login.cgi could not be found.
+2023-07-22 00:08:43
+-------------------------------------------------
+URL : https://3.28.244.244/cgi-bin/login.cgi
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route cgi-bin/login.cgi could not be found.
+2023-07-22 00:35:05
+-------------------------------------------------
+URL : https://3.28.244.244/ab2g
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route ab2g could not be found.
+2023-07-22 00:35:08
+-------------------------------------------------
+URL : https://3.28.244.244/ab2h
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route ab2h could not be found.
+2023-07-22 00:40:19
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_1.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_1.png could not be found.
+2023-07-22 00:40:19
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_3.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_3.png could not be found.
+2023-07-22 00:40:19
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_2.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_2.png could not be found.
+2023-07-22 00:41:17
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_1.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_1.png could not be found.
+2023-07-22 00:41:17
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_3.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_3.png could not be found.
+2023-07-22 00:41:17
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_2.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_2.png could not be found.
+2023-07-22 01:00:32
+-------------------------------------------------
+URL : https://3.28.244.244/actuator/health
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route actuator/health could not be found.
+2023-07-22 01:01:15
+-------------------------------------------------
+URL : https://friendscarrental.com/car_category-sitemap.xml
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route car_category-sitemap.xml could not be found.
+2023-07-22 01:43:44
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_2.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_2.png could not be found.
+2023-07-22 01:43:44
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_1.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_1.png could not be found.
+2023-07-22 01:43:44
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_3.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_3.png could not be found.
+2023-07-22 01:45:32
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_3.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_3.png could not be found.
+2023-07-22 01:45:32
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_1.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_1.png could not be found.
+2023-07-22 01:45:32
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_2.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_2.png could not be found.
+2023-07-22 01:46:55
+-------------------------------------------------
+URL : https://friendscarrental.com/img/favicon.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route img/favicon.png could not be found.
+2023-07-22 02:26:39
+-------------------------------------------------
+URL : https://friendscarrental.com/car-brands/mercedes-benz
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php
+LINE : 1221
+MESSAGE: 
+2023-07-22 02:31:15
+-------------------------------------------------
+URL : https://friendscarrental.com/pages/driving-license
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php
+LINE : 1221
+MESSAGE: 
+2023-07-22 02:45:07
+-------------------------------------------------
+URL : https://friendscarrental.com/.well-known/traffic-advice
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route .well-known/traffic-advice could not be found.
+2023-07-22 02:48:00
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_2.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_2.png could not be found.
+2023-07-22 02:48:00
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_1.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_1.png could not be found.
+2023-07-22 02:48:00
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_3.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_3.png could not be found.
+2023-07-22 02:48:57
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_2.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_2.png could not be found.
+2023-07-22 02:48:57
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_1.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_1.png could not be found.
+2023-07-22 02:48:57
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_3.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_3.png could not be found.
+2023-07-22 02:51:28
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_1.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_1.png could not be found.
+2023-07-22 02:51:28
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_2.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_2.png could not be found.
+2023-07-22 02:51:28
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_3.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_3.png could not be found.
+2023-07-22 02:53:04
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_3.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_3.png could not be found.
+2023-07-22 02:53:04
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_1.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_1.png could not be found.
+2023-07-22 02:53:04
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_2.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_2.png could not be found.
+2023-07-22 03:17:24
+-------------------------------------------------
+URL : https://friendscarrental.com//wp-includes/wlwmanifest.xml
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route wp-includes/wlwmanifest.xml could not be found.
+2023-07-22 03:17:26
+-------------------------------------------------
+URL : https://friendscarrental.com//xmlrpc.php?rsd=
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route xmlrpc.php could not be found.
+2023-07-22 03:17:34
+-------------------------------------------------
+URL : https://friendscarrental.com//blog/wp-includes/wlwmanifest.xml
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route blog/wp-includes/wlwmanifest.xml could not be found.
+2023-07-22 03:17:36
+-------------------------------------------------
+URL : https://friendscarrental.com//web/wp-includes/wlwmanifest.xml
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route web/wp-includes/wlwmanifest.xml could not be found.
+2023-07-22 03:17:39
+-------------------------------------------------
+URL : https://friendscarrental.com//wordpress/wp-includes/wlwmanifest.xml
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route wordpress/wp-includes/wlwmanifest.xml could not be found.
+2023-07-22 03:17:42
+-------------------------------------------------
+URL : https://friendscarrental.com//website/wp-includes/wlwmanifest.xml
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route website/wp-includes/wlwmanifest.xml could not be found.
+2023-07-22 03:17:47
+-------------------------------------------------
+URL : https://friendscarrental.com//wp/wp-includes/wlwmanifest.xml
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route wp/wp-includes/wlwmanifest.xml could not be found.
+2023-07-22 03:17:50
+-------------------------------------------------
+URL : https://friendscarrental.com//news/wp-includes/wlwmanifest.xml
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route news/wp-includes/wlwmanifest.xml could not be found.
+2023-07-22 03:18:03
+-------------------------------------------------
+URL : https://friendscarrental.com//2018/wp-includes/wlwmanifest.xml
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route 2018/wp-includes/wlwmanifest.xml could not be found.
+2023-07-22 03:18:14
+-------------------------------------------------
+URL : https://friendscarrental.com//2019/wp-includes/wlwmanifest.xml
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route 2019/wp-includes/wlwmanifest.xml could not be found.
+2023-07-22 03:18:24
+-------------------------------------------------
+URL : https://friendscarrental.com//shop/wp-includes/wlwmanifest.xml
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route shop/wp-includes/wlwmanifest.xml could not be found.
+2023-07-22 03:18:29
+-------------------------------------------------
+URL : https://friendscarrental.com//wp1/wp-includes/wlwmanifest.xml
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route wp1/wp-includes/wlwmanifest.xml could not be found.
+2023-07-22 03:18:33
+-------------------------------------------------
+URL : https://friendscarrental.com//test/wp-includes/wlwmanifest.xml
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route test/wp-includes/wlwmanifest.xml could not be found.
+2023-07-22 03:18:39
+-------------------------------------------------
+URL : https://friendscarrental.com//media/wp-includes/wlwmanifest.xml
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route media/wp-includes/wlwmanifest.xml could not be found.
+2023-07-22 03:18:43
+-------------------------------------------------
+URL : https://friendscarrental.com//wp2/wp-includes/wlwmanifest.xml
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route wp2/wp-includes/wlwmanifest.xml could not be found.
+2023-07-22 03:18:47
+-------------------------------------------------
+URL : https://friendscarrental.com//site/wp-includes/wlwmanifest.xml
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route site/wp-includes/wlwmanifest.xml could not be found.
+2023-07-22 03:18:53
+-------------------------------------------------
+URL : https://friendscarrental.com//cms/wp-includes/wlwmanifest.xml
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route cms/wp-includes/wlwmanifest.xml could not be found.
+2023-07-22 03:18:57
+-------------------------------------------------
+URL : https://friendscarrental.com//sito/wp-includes/wlwmanifest.xml
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route sito/wp-includes/wlwmanifest.xml could not be found.
+2023-07-22 03:51:10
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_3.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_3.png could not be found.
+2023-07-22 03:51:10
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_1.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_1.png could not be found.
+2023-07-22 03:51:10
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_2.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_2.png could not be found.
+2023-07-22 03:53:01
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_2.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_2.png could not be found.
+2023-07-22 03:53:01
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_1.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_1.png could not be found.
+2023-07-22 03:53:01
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_3.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_3.png could not be found.
+2023-07-22 04:02:05
+-------------------------------------------------
+URL : https://3.28.244.244/.git/config
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route .git/config could not be found.
+2023-07-22 04:09:45
+-------------------------------------------------
+URL : https://friendscarrental.com/wp-login.php
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route wp-login.php could not be found.
+2023-07-22 04:09:47
+-------------------------------------------------
+URL : https://friendscarrental.com/xmlrpc.php
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route xmlrpc.php could not be found.
+2023-07-22 04:09:48
+-------------------------------------------------
+URL : https://friendscarrental.com/wp-login.php
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route wp-login.php could not be found.
+2023-07-22 04:09:49
+-------------------------------------------------
+URL : https://friendscarrental.com/xmlrpc.php
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route xmlrpc.php could not be found.
+2023-07-22 04:54:46
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_2.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_2.png could not be found.
+2023-07-22 04:54:46
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_1.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_1.png could not be found.
+2023-07-22 04:54:46
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_3.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_3.png could not be found.
+2023-07-22 04:56:16
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_1.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_1.png could not be found.
+2023-07-22 04:56:16
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_3.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_3.png could not be found.
+2023-07-22 04:56:16
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_2.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_2.png could not be found.
+2023-07-22 05:04:20
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 05:15:20
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 05:25:33
+-------------------------------------------------
+URL : https://friendscarrental.com/cars/msg_send
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php
+LINE : 1221
+MESSAGE: 
+2023-07-22 05:25:45
+-------------------------------------------------
+URL : https://3.28.244.244//3.28.244.244/frontend/js/back-to-top.js
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route 3.28.244.244/frontend/js/back-to-top.js could not be found.
+2023-07-22 05:25:45
+-------------------------------------------------
+URL : https://3.28.244.244//3.28.244.244/frontend/js/bootstrap.bundle.min.js
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route 3.28.244.244/frontend/js/bootstrap.bundle.min.js could not be found.
+2023-07-22 05:25:45
+-------------------------------------------------
+URL : https://3.28.244.244//3.28.244.244/frontend/js/jquery-3.6.4.min.js
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route 3.28.244.244/frontend/js/jquery-3.6.4.min.js could not be found.
+2023-07-22 05:25:45
+-------------------------------------------------
+URL : https://3.28.244.244//3.28.244.244/frontend/js/magnific-popup.js
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route 3.28.244.244/frontend/js/magnific-popup.js could not be found.
+2023-07-22 05:25:46
+-------------------------------------------------
+URL : https://3.28.244.244//cdnjs.cloudflare.com/ajax/libs/toastr.js
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route cdnjs.cloudflare.com/ajax/libs/toastr.js could not be found.
+2023-07-22 05:25:46
+-------------------------------------------------
+URL : https://3.28.244.244//cdnjs.cloudflare.com/ajax/libs/lightslider/1.1.6/js/lightslider.min.js
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route cdnjs.cloudflare.com/ajax/libs/lightslider/1.1.6/js/lightslider.min.js could not be found.
+2023-07-22 05:25:46
+-------------------------------------------------
+URL : https://3.28.244.244//cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js could not be found.
+2023-07-22 05:25:46
+-------------------------------------------------
+URL : https://3.28.244.244//3.28.244.244/frontend/js/custom.js
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route 3.28.244.244/frontend/js/custom.js could not be found.
+2023-07-22 05:25:46
+-------------------------------------------------
+URL : https://3.28.244.244//cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js could not be found.
+2023-07-22 05:25:46
+-------------------------------------------------
+URL : https://3.28.244.244//cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/intlTelInput.min.js
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/intlTelInput.min.js could not be found.
+2023-07-22 05:25:46
+-------------------------------------------------
+URL : https://3.28.244.244//cdnjs.cloudflare.com/ajax/libs/air-datepicker/2.2.3/js/i18n/datepicker.en.js
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route cdnjs.cloudflare.com/ajax/libs/air-datepicker/2.2.3/js/i18n/datepicker.en.js could not be found.
+2023-07-22 05:25:46
+-------------------------------------------------
+URL : https://3.28.244.244//cdnjs.cloudflare.com/ajax/libs/toastr.js/2.0.2/js/toastr.min.js
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route cdnjs.cloudflare.com/ajax/libs/toastr.js/2.0.2/js/toastr.min.js could not be found.
+2023-07-22 05:25:46
+-------------------------------------------------
+URL : https://3.28.244.244//cdnjs.cloudflare.com/ajax/libs/flatpickr/4.2.3/flatpickr.js
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route cdnjs.cloudflare.com/ajax/libs/flatpickr/4.2.3/flatpickr.js could not be found.
+2023-07-22 05:25:47
+-------------------------------------------------
+URL : https://3.28.244.244//cdnjs.cloudflare.com/ajax/libs/air-datepicker/2.2.3/js/datepicker.min.js
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route cdnjs.cloudflare.com/ajax/libs/air-datepicker/2.2.3/js/datepicker.min.js could not be found.
+2023-07-22 05:25:47
+-------------------------------------------------
+URL : https://3.28.244.244//3.28.244.244/frontend/js/setup.js
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route 3.28.244.244/frontend/js/setup.js could not be found.
+2023-07-22 05:25:47
+-------------------------------------------------
+URL : https://3.28.244.244/dist/sweetalert2.all.min.js
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route dist/sweetalert2.all.min.js could not be found.
+2023-07-22 05:25:47
+-------------------------------------------------
+URL : https://3.28.244.244//3.28.244.244/frontend/js/xzoom.min.js
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route 3.28.244.244/frontend/js/xzoom.min.js could not be found.
+2023-07-22 05:25:48
+-------------------------------------------------
+URL : https://3.28.244.244//ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js could not be found.
+2023-07-22 05:25:48
+-------------------------------------------------
+URL : https://3.28.244.244//cdn.js
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route cdn.js could not be found.
+2023-07-22 05:25:49
+-------------------------------------------------
+URL : https://3.28.244.244//cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js could not be found.
+2023-07-22 05:26:09
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 05:40:09
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 05:50:54
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 05:58:49
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_1.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_1.png could not be found.
+2023-07-22 05:58:49
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_2.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_2.png could not be found.
+2023-07-22 05:58:49
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_3.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_3.png could not be found.
+2023-07-22 05:59:00
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_1.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_1.png could not be found.
+2023-07-22 05:59:00
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_3.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_3.png could not be found.
+2023-07-22 05:59:00
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_2.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_2.png could not be found.
+2023-07-22 06:00:29
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_1.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_1.png could not be found.
+2023-07-22 06:00:29
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_2.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_2.png could not be found.
+2023-07-22 06:00:29
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_3.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_3.png could not be found.
+2023-07-22 06:00:30
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_3.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_3.png could not be found.
+2023-07-22 06:00:30
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_1.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_1.png could not be found.
+2023-07-22 06:00:30
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_2.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_2.png could not be found.
+2023-07-22 06:01:38
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 06:12:22
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 06:14:56
+-------------------------------------------------
+URL : https://3.28.244.244/.env
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route .env could not be found.
+2023-07-22 06:14:59
+-------------------------------------------------
+URL : https://3.28.244.244
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 122
+MESSAGE: The POST method is not supported for route /. Supported methods: GET, HEAD.
+2023-07-22 06:23:09
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 06:23:34
+-------------------------------------------------
+URL : https://friendscarrental.com/apple-app-site-association
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route apple-app-site-association could not be found.
+2023-07-22 06:33:53
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 06:35:31
+-------------------------------------------------
+URL : https://friendscarrental.com/.well-known/apple-app-site-association
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route .well-known/apple-app-site-association could not be found.
+2023-07-22 06:45:44
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 06:51:41
+-------------------------------------------------
+URL : https://www.friendscarrental.com/brand/rolls-royce
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route brand/rolls-royce could not be found.
+2023-07-22 06:52:08
+-------------------------------------------------
+URL : https://www.friendscarrental.com/brand/rolls-royce
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route brand/rolls-royce could not be found.
+2023-07-22 06:56:11
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 06:58:56
+-------------------------------------------------
+URL : https://friendscarrental.com/car-brands/mercedes-benz
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php
+LINE : 1221
+MESSAGE: 
+2023-07-22 07:03:05
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_1.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_1.png could not be found.
+2023-07-22 07:03:05
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_2.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_2.png could not be found.
+2023-07-22 07:03:05
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_3.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_3.png could not be found.
+2023-07-22 07:04:35
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_3.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_3.png could not be found.
+2023-07-22 07:04:35
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_1.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_1.png could not be found.
+2023-07-22 07:04:35
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_2.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_2.png could not be found.
+2023-07-22 07:07:05
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 07:18:06
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 07:28:43
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 07:39:43
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 07:50:32
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 07:53:50
+-------------------------------------------------
+URL : https://friendscarrental.com/rent-rent-suv-dubai
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route rent-rent-suv-dubai could not be found.
+2023-07-22 08:01:19
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 08:07:21
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_1.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_1.png could not be found.
+2023-07-22 08:07:21
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_2.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_2.png could not be found.
+2023-07-22 08:07:21
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_3.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_3.png could not be found.
+2023-07-22 08:08:55
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_1.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_1.png could not be found.
+2023-07-22 08:08:55
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_2.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_2.png could not be found.
+2023-07-22 08:08:55
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_3.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_3.png could not be found.
+2023-07-22 08:09:00
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_2.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_2.png could not be found.
+2023-07-22 08:09:00
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_1.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_1.png could not be found.
+2023-07-22 08:09:00
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_3.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_3.png could not be found.
+2023-07-22 08:12:05
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 08:22:55
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 08:33:34
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 08:33:51
+-------------------------------------------------
+URL : https://3.28.244.244/ReportServer
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route ReportServer could not be found.
+2023-07-22 08:44:22
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 08:52:54
+-------------------------------------------------
+URL : https://3.28.244.244/autodiscover/autodiscover.json?%40zdi%2FPowershell=
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route autodiscover/autodiscover.json could not be found.
+2023-07-22 08:55:07
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 09:05:56
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 09:11:38
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_1.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_1.png could not be found.
+2023-07-22 09:11:38
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_2.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_2.png could not be found.
+2023-07-22 09:11:38
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_3.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_3.png could not be found.
+2023-07-22 09:13:08
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_1.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_1.png could not be found.
+2023-07-22 09:13:08
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_2.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_2.png could not be found.
+2023-07-22 09:13:08
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_3.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_3.png could not be found.
+2023-07-22 09:15:27
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_3.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_3.png could not be found.
+2023-07-22 09:15:27
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_1.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_1.png could not be found.
+2023-07-22 09:15:27
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_2.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_2.png could not be found.
+2023-07-22 09:17:12
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_2.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_2.png could not be found.
+2023-07-22 09:17:12
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_1.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_1.png could not be found.
+2023-07-22 09:17:12
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_3.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_3.png could not be found.
+2023-07-22 09:28:06
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 09:38:48
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 09:49:39
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 10:01:12
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 10:11:25
+-------------------------------------------------
+URL : https://3.28.244.244/msg_send
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route msg_send could not be found.
+2023-07-22 10:11:52
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 10:15:26
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_1.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_1.png could not be found.
+2023-07-22 10:15:26
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_2.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_2.png could not be found.
+2023-07-22 10:15:26
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_3.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_3.png could not be found.
+2023-07-22 10:15:44
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/image/msg_new.png%20
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/image/msg_new.png%20 could not be found.
+2023-07-22 10:15:46
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/image/ratings.png%20
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/image/ratings.png%20 could not be found.
+2023-07-22 10:15:48
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/image/map_icon.png%20
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/image/map_icon.png%20 could not be found.
+2023-07-22 10:15:51
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/image/last-img.png%20
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/image/last-img.png%20 could not be found.
+2023-07-22 10:15:53
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/image/call.png%20
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/image/call.png%20 could not be found.
+2023-07-22 10:16:34
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_1.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_1.png could not be found.
+2023-07-22 10:16:34
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_3.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_3.png could not be found.
+2023-07-22 10:16:34
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_2.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_2.png could not be found.
+2023-07-22 10:22:55
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 10:33:38
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 10:36:39
+-------------------------------------------------
+URL : https://3.28.244.244/.env
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route .env could not be found.
+2023-07-22 10:41:46
+-------------------------------------------------
+URL : https://friendscarrental.com/msg_send
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route msg_send could not be found.
+2023-07-22 10:44:20
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 10:55:20
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 11:06:08
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 11:12:15
+-------------------------------------------------
+URL : https://friendscarrental.com/msg_send
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route msg_send could not be found.
+2023-07-22 11:17:39
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 11:18:17
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_1.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_1.png could not be found.
+2023-07-22 11:18:17
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_2.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_2.png could not be found.
+2023-07-22 11:18:17
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_3.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_3.png could not be found.
+2023-07-22 11:20:00
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_2.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_2.png could not be found.
+2023-07-22 11:20:00
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_1.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_1.png could not be found.
+2023-07-22 11:20:00
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_3.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_3.png could not be found.
+2023-07-22 11:28:25
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 11:39:06
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 11:49:56
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 12:00:52
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 12:10:54
+-------------------------------------------------
+URL : https://mail.friendscarrental.com/msg_send
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route msg_send could not be found.
+2023-07-22 12:11:44
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 12:22:24
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_2.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_2.png could not be found.
+2023-07-22 12:22:24
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_1.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_1.png could not be found.
+2023-07-22 12:22:24
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_3.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_3.png could not be found.
+2023-07-22 12:22:25
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 12:24:21
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_1.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_1.png could not be found.
+2023-07-22 12:24:21
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_2.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_2.png could not be found.
+2023-07-22 12:24:21
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_3.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_3.png could not be found.
+2023-07-22 12:33:24
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 12:42:05
+-------------------------------------------------
+URL : https://friendscarrental.com/wordpress
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route wordpress could not be found.
+2023-07-22 12:42:06
+-------------------------------------------------
+URL : https://friendscarrental.com/Wordpress
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route Wordpress could not be found.
+2023-07-22 12:42:07
+-------------------------------------------------
+URL : https://friendscarrental.com/WORDPRESS
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route WORDPRESS could not be found.
+2023-07-22 12:42:08
+-------------------------------------------------
+URL : https://friendscarrental.com/WordPress
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route WordPress could not be found.
+2023-07-22 12:42:08
+-------------------------------------------------
+URL : https://friendscarrental.com/wp
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route wp could not be found.
+2023-07-22 12:42:09
+-------------------------------------------------
+URL : https://friendscarrental.com/Wp
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route Wp could not be found.
+2023-07-22 12:42:10
+-------------------------------------------------
+URL : https://friendscarrental.com/WP
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route WP could not be found.
+2023-07-22 12:42:11
+-------------------------------------------------
+URL : https://friendscarrental.com/old
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route old could not be found.
+2023-07-22 12:42:12
+-------------------------------------------------
+URL : https://friendscarrental.com/Old
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route Old could not be found.
+2023-07-22 12:42:12
+-------------------------------------------------
+URL : https://friendscarrental.com/OLD
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route OLD could not be found.
+2023-07-22 12:42:13
+-------------------------------------------------
+URL : https://friendscarrental.com/oldsite
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route oldsite could not be found.
+2023-07-22 12:42:14
+-------------------------------------------------
+URL : https://friendscarrental.com/new
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route new could not be found.
+2023-07-22 12:42:15
+-------------------------------------------------
+URL : https://friendscarrental.com/New
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route New could not be found.
+2023-07-22 12:42:15
+-------------------------------------------------
+URL : https://friendscarrental.com/NEW
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route NEW could not be found.
+2023-07-22 12:42:16
+-------------------------------------------------
+URL : https://friendscarrental.com/wp-old
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route wp-old could not be found.
+2023-07-22 12:42:17
+-------------------------------------------------
+URL : https://friendscarrental.com/2022
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route 2022 could not be found.
+2023-07-22 12:42:18
+-------------------------------------------------
+URL : https://friendscarrental.com/2020
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route 2020 could not be found.
+2023-07-22 12:42:19
+-------------------------------------------------
+URL : https://friendscarrental.com/2019
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route 2019 could not be found.
+2023-07-22 12:42:19
+-------------------------------------------------
+URL : https://friendscarrental.com/2018
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route 2018 could not be found.
+2023-07-22 12:42:20
+-------------------------------------------------
+URL : https://friendscarrental.com/backup
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route backup could not be found.
+2023-07-22 12:42:21
+-------------------------------------------------
+URL : https://friendscarrental.com/test
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route test could not be found.
+2023-07-22 12:42:22
+-------------------------------------------------
+URL : https://friendscarrental.com/Test
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route Test could not be found.
+2023-07-22 12:42:23
+-------------------------------------------------
+URL : https://friendscarrental.com/TEST
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route TEST could not be found.
+2023-07-22 12:42:23
+-------------------------------------------------
+URL : https://friendscarrental.com/demo
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route demo could not be found.
+2023-07-22 12:42:24
+-------------------------------------------------
+URL : https://friendscarrental.com/bc
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route bc could not be found.
+2023-07-22 12:42:25
+-------------------------------------------------
+URL : https://friendscarrental.com/www
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route www could not be found.
+2023-07-22 12:42:26
+-------------------------------------------------
+URL : https://friendscarrental.com/WWW
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route WWW could not be found.
+2023-07-22 12:42:26
+-------------------------------------------------
+URL : https://friendscarrental.com/Www
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route Www could not be found.
+2023-07-22 12:42:27
+-------------------------------------------------
+URL : https://friendscarrental.com/2021
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route 2021 could not be found.
+2023-07-22 12:42:28
+-------------------------------------------------
+URL : https://friendscarrental.com/main
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route main could not be found.
+2023-07-22 12:42:29
+-------------------------------------------------
+URL : https://friendscarrental.com/old-site
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route old-site could not be found.
+2023-07-22 12:42:30
+-------------------------------------------------
+URL : https://friendscarrental.com/bk
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route bk could not be found.
+2023-07-22 12:42:30
+-------------------------------------------------
+URL : https://friendscarrental.com/Backup
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route Backup could not be found.
+2023-07-22 12:42:31
+-------------------------------------------------
+URL : https://friendscarrental.com/BACKUP
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route BACKUP could not be found.
+2023-07-22 12:42:32
+-------------------------------------------------
+URL : https://friendscarrental.com/SHOP
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route SHOP could not be found.
+2023-07-22 12:42:33
+-------------------------------------------------
+URL : https://friendscarrental.com/Shop
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route Shop could not be found.
+2023-07-22 12:42:33
+-------------------------------------------------
+URL : https://friendscarrental.com/shop
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route shop could not be found.
+2023-07-22 12:42:34
+-------------------------------------------------
+URL : https://friendscarrental.com/bak
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route bak could not be found.
+2023-07-22 12:42:35
+-------------------------------------------------
+URL : https://friendscarrental.com/sitio
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route sitio could not be found.
+2023-07-22 12:42:36
+-------------------------------------------------
+URL : https://friendscarrental.com/bac
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route bac could not be found.
+2023-07-22 12:42:36
+-------------------------------------------------
+URL : https://friendscarrental.com/sito
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route sito could not be found.
+2023-07-22 12:42:37
+-------------------------------------------------
+URL : https://friendscarrental.com/site
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route site could not be found.
+2023-07-22 12:42:38
+-------------------------------------------------
+URL : https://friendscarrental.com/Site
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route Site could not be found.
+2023-07-22 12:42:39
+-------------------------------------------------
+URL : https://friendscarrental.com/SITE
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route SITE could not be found.
+2023-07-22 12:42:40
+-------------------------------------------------
+URL : https://friendscarrental.com/blog
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route blog could not be found.
+2023-07-22 12:42:40
+-------------------------------------------------
+URL : https://friendscarrental.com/BLOG
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route BLOG could not be found.
+2023-07-22 12:42:41
+-------------------------------------------------
+URL : https://friendscarrental.com/Blog
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route Blog could not be found.
+2023-07-22 12:44:14
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 12:55:11
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 12:59:32
+-------------------------------------------------
+URL : https://www.friendscarrental.com/car-brands/msg_send
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php
+LINE : 1221
+MESSAGE: 
+2023-07-22 13:05:55
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 13:16:59
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 13:22:17
+-------------------------------------------------
+URL : https://mail.friendscarrental.com/msg_send
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route msg_send could not be found.
+2023-07-22 13:26:29
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_1.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_1.png could not be found.
+2023-07-22 13:26:29
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_2.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_2.png could not be found.
+2023-07-22 13:26:29
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_3.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_3.png could not be found.
+2023-07-22 13:27:52
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 13:28:13
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_1.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_1.png could not be found.
+2023-07-22 13:28:13
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_3.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_3.png could not be found.
+2023-07-22 13:28:13
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_2.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_2.png could not be found.
+2023-07-22 13:50:31
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 13:56:07
+-------------------------------------------------
+URL : https://www.friendscarrental.com/msg_send
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route msg_send could not be found.
+2023-07-22 14:01:28
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 14:04:14
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_1.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_1.png could not be found.
+2023-07-22 14:04:14
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_2.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_2.png could not be found.
+2023-07-22 14:04:14
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_3.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_3.png could not be found.
+2023-07-22 14:12:37
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 14:15:48
+-------------------------------------------------
+URL : https://3.28.244.244/32/wp-content/plugins/wp-file-manager/readme.txt
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route 32/wp-content/plugins/wp-file-manager/readme.txt could not be found.
+2023-07-22 14:23:12
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 14:26:47
+-------------------------------------------------
+URL : https://www.friendscarrental.com/car-types/msg_send
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php
+LINE : 1221
+MESSAGE: 
+2023-07-22 14:31:01
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_1.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_1.png could not be found.
+2023-07-22 14:31:01
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_2.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_2.png could not be found.
+2023-07-22 14:31:01
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_3.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_3.png could not be found.
+2023-07-22 14:32:21
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_1.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_1.png could not be found.
+2023-07-22 14:32:21
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_2.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_2.png could not be found.
+2023-07-22 14:32:21
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_3.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_3.png could not be found.
+2023-07-22 14:33:56
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 14:37:24
+-------------------------------------------------
+URL : https://3.28.244.244/.env
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route .env could not be found.
+2023-07-22 14:37:26
+-------------------------------------------------
+URL : https://3.28.244.244
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 122
+MESSAGE: The POST method is not supported for route /. Supported methods: GET, HEAD.
+2023-07-22 14:44:33
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 14:45:38
+-------------------------------------------------
+URL : https://friendscarrental.com/xmlrpc.php
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route xmlrpc.php could not be found.
+2023-07-22 14:45:40
+-------------------------------------------------
+URL : https://friendscarrental.com/wordpress/xmlrpc.php
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route wordpress/xmlrpc.php could not be found.
+2023-07-22 14:45:42
+-------------------------------------------------
+URL : https://friendscarrental.com/wp/xmlrpc.php
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route wp/xmlrpc.php could not be found.
+2023-07-22 14:45:45
+-------------------------------------------------
+URL : https://friendscarrental.com/xmlrpc.php
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route xmlrpc.php could not be found.
+2023-07-22 14:45:50
+-------------------------------------------------
+URL : https://friendscarrental.com/wordpress/xmlrpc.php
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route wordpress/xmlrpc.php could not be found.
+2023-07-22 14:45:53
+-------------------------------------------------
+URL : https://friendscarrental.com/wp/xmlrpc.php
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route wp/xmlrpc.php could not be found.
+2023-07-22 14:45:57
+-------------------------------------------------
+URL : https://friendscarrental.com/wp-login.php
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route wp-login.php could not be found.
+2023-07-22 14:46:01
+-------------------------------------------------
+URL : https://friendscarrental.com/login
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route login could not be found.
+2023-07-22 14:46:05
+-------------------------------------------------
+URL : https://friendscarrental.com/wp-login.php
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route wp-login.php could not be found.
+2023-07-22 14:46:09
+-------------------------------------------------
+URL : https://friendscarrental.com/login
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route login could not be found.
+2023-07-22 14:48:34
+-------------------------------------------------
+URL : https://3.28.244.244/.git/config
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route .git/config could not be found.
+2023-07-22 14:49:33
+-------------------------------------------------
+URL : https://3.28.244.244/.git/config
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route .git/config could not be found.
+2023-07-22 14:55:16
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 15:06:13
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 15:08:04
+-------------------------------------------------
+URL : https://www.friendscarrental.com/msg_send
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route msg_send could not be found.
+2023-07-22 15:17:00
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 15:27:40
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 15:34:21
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_1.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_1.png could not be found.
+2023-07-22 15:34:21
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_2.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_2.png could not be found.
+2023-07-22 15:34:21
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_3.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_3.png could not be found.
+2023-07-22 15:35:32
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_2.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_2.png could not be found.
+2023-07-22 15:35:32
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_3.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_3.png could not be found.
+2023-07-22 15:35:32
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_1.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_1.png could not be found.
+2023-07-22 15:38:35
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 15:49:32
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 15:53:06
+-------------------------------------------------
+URL : https://3.28.244.244/autodiscover/autodiscover.json?%40zdi%2FPowershell=
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route autodiscover/autodiscover.json could not be found.
+2023-07-22 16:00:25
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 16:11:25
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 16:15:27
+-------------------------------------------------
+URL : https://3.28.244.244/Autodiscover/Autodiscover.xml
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route Autodiscover/Autodiscover.xml could not be found.
+2023-07-22 16:22:09
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 16:32:50
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 16:38:22
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_1.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_1.png could not be found.
+2023-07-22 16:38:22
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_2.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_2.png could not be found.
+2023-07-22 16:38:22
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_3.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_3.png could not be found.
+2023-07-22 16:40:14
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_2.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_2.png could not be found.
+2023-07-22 16:40:14
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_1.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_1.png could not be found.
+2023-07-22 16:40:14
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_3.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_3.png could not be found.
+2023-07-22 16:43:31
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 16:54:13
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 17:01:48
+-------------------------------------------------
+URL : https://3.28.244.244/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php could not be found.
+2023-07-22 17:05:05
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 17:11:31
+-------------------------------------------------
+URL : https://friendscarrental.com/car_item-sitemap.xml
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route car_item-sitemap.xml could not be found.
+2023-07-22 17:15:50
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 17:26:37
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 17:37:20
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 17:42:29
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_2.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_2.png could not be found.
+2023-07-22 17:42:29
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_1.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_1.png could not be found.
+2023-07-22 17:42:30
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_3.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_3.png could not be found.
+2023-07-22 17:44:27
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_1.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_1.png could not be found.
+2023-07-22 17:44:27
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_2.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_2.png could not be found.
+2023-07-22 17:44:27
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_3.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_3.png could not be found.
+2023-07-22 17:46:52
+-------------------------------------------------
+URL : https://3.28.244.244/version
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route version could not be found.
+2023-07-22 17:48:07
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 17:52:02
+-------------------------------------------------
+URL : https://friendscarrental.com/wp-login.php
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route wp-login.php could not be found.
+2023-07-22 17:52:03
+-------------------------------------------------
+URL : https://friendscarrental.com/xmlrpc.php
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route xmlrpc.php could not be found.
+2023-07-22 17:52:04
+-------------------------------------------------
+URL : https://friendscarrental.com/wp-login.php
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route wp-login.php could not be found.
+2023-07-22 17:52:06
+-------------------------------------------------
+URL : https://friendscarrental.com/xmlrpc.php
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route xmlrpc.php could not be found.
+2023-07-22 17:58:51
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 18:05:07
+-------------------------------------------------
+URL : https://3.28.244.244/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php could not be found.
+2023-07-22 18:05:43
+-------------------------------------------------
+URL : https://mail.friendscarrental.com/wp-includes/wlwmanifest.xml
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route wp-includes/wlwmanifest.xml could not be found.
+2023-07-22 18:05:45
+-------------------------------------------------
+URL : https://mail.friendscarrental.com/public/_ignition/health-check
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route public/_ignition/health-check could not be found.
+2023-07-22 18:05:48
+-------------------------------------------------
+URL : https://mail.friendscarrental.com/_ignition/health-check
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php
+LINE : 1221
+MESSAGE: 
+2023-07-22 18:09:31
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 18:20:13
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 18:31:15
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 18:42:22
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 18:47:47
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_1.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_1.png could not be found.
+2023-07-22 18:47:47
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_2.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_2.png could not be found.
+2023-07-22 18:47:47
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_3.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_3.png could not be found.
+2023-07-22 18:49:13
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_3.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_3.png could not be found.
+2023-07-22 18:49:13
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_1.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_1.png could not be found.
+2023-07-22 18:49:13
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_2.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_2.png could not be found.
+2023-07-22 18:53:02
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 19:03:42
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 19:11:08
+-------------------------------------------------
+URL : https://3.28.244.244/.git/config
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route .git/config could not be found.
+2023-07-22 19:14:24
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 19:17:25
+-------------------------------------------------
+URL : https://3.28.244.244/32/wp-content/plugins/jetpack/readme.txt
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route 32/wp-content/plugins/jetpack/readme.txt could not be found.
+2023-07-22 19:25:18
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 19:36:07
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 19:46:53
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 19:51:28
+-------------------------------------------------
+URL : https://3.28.244.244/.env
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route .env could not be found.
+2023-07-22 19:51:37
+-------------------------------------------------
+URL : https://3.28.244.244
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 122
+MESSAGE: The POST method is not supported for route /. Supported methods: GET, HEAD.
+2023-07-22 19:51:38
+-------------------------------------------------
+URL : https://3.28.244.244/core/.env
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route core/.env could not be found.
+2023-07-22 19:51:40
+-------------------------------------------------
+URL : https://3.28.244.244/core/.env
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route core/.env could not be found.
+2023-07-22 19:51:49
+-------------------------------------------------
+URL : https://3.28.244.244
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 122
+MESSAGE: The POST method is not supported for route /. Supported methods: GET, HEAD.
+2023-07-22 19:51:50
+-------------------------------------------------
+URL : https://3.28.244.244/core/.env
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route core/.env could not be found.
+2023-07-22 19:52:37
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_1.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_1.png could not be found.
+2023-07-22 19:52:37
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_3.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_3.png could not be found.
+2023-07-22 19:52:37
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_2.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_2.png could not be found.
+2023-07-22 19:54:00
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_3.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_3.png could not be found.
+2023-07-22 19:54:00
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_1.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_1.png could not be found.
+2023-07-22 19:54:00
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_2.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_2.png could not be found.
+2023-07-22 19:57:44
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 20:01:28
+-------------------------------------------------
+URL : https://friendscarrental.com//wp-includes/wlwmanifest.xml
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route wp-includes/wlwmanifest.xml could not be found.
+2023-07-22 20:01:29
+-------------------------------------------------
+URL : https://friendscarrental.com//xmlrpc.php?rsd=
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route xmlrpc.php could not be found.
+2023-07-22 20:01:31
+-------------------------------------------------
+URL : https://friendscarrental.com//blog/wp-includes/wlwmanifest.xml
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route blog/wp-includes/wlwmanifest.xml could not be found.
+2023-07-22 20:01:32
+-------------------------------------------------
+URL : https://friendscarrental.com//web/wp-includes/wlwmanifest.xml
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route web/wp-includes/wlwmanifest.xml could not be found.
+2023-07-22 20:01:33
+-------------------------------------------------
+URL : https://friendscarrental.com//wordpress/wp-includes/wlwmanifest.xml
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route wordpress/wp-includes/wlwmanifest.xml could not be found.
+2023-07-22 20:01:34
+-------------------------------------------------
+URL : https://friendscarrental.com//website/wp-includes/wlwmanifest.xml
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route website/wp-includes/wlwmanifest.xml could not be found.
+2023-07-22 20:01:35
+-------------------------------------------------
+URL : https://friendscarrental.com//wp/wp-includes/wlwmanifest.xml
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route wp/wp-includes/wlwmanifest.xml could not be found.
+2023-07-22 20:01:35
+-------------------------------------------------
+URL : https://friendscarrental.com//news/wp-includes/wlwmanifest.xml
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route news/wp-includes/wlwmanifest.xml could not be found.
+2023-07-22 20:01:36
+-------------------------------------------------
+URL : https://friendscarrental.com//2018/wp-includes/wlwmanifest.xml
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route 2018/wp-includes/wlwmanifest.xml could not be found.
+2023-07-22 20:01:37
+-------------------------------------------------
+URL : https://friendscarrental.com//2019/wp-includes/wlwmanifest.xml
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route 2019/wp-includes/wlwmanifest.xml could not be found.
+2023-07-22 20:01:38
+-------------------------------------------------
+URL : https://friendscarrental.com//shop/wp-includes/wlwmanifest.xml
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route shop/wp-includes/wlwmanifest.xml could not be found.
+2023-07-22 20:01:39
+-------------------------------------------------
+URL : https://friendscarrental.com//wp1/wp-includes/wlwmanifest.xml
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route wp1/wp-includes/wlwmanifest.xml could not be found.
+2023-07-22 20:01:39
+-------------------------------------------------
+URL : https://friendscarrental.com//test/wp-includes/wlwmanifest.xml
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route test/wp-includes/wlwmanifest.xml could not be found.
+2023-07-22 20:01:40
+-------------------------------------------------
+URL : https://friendscarrental.com//media/wp-includes/wlwmanifest.xml
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route media/wp-includes/wlwmanifest.xml could not be found.
+2023-07-22 20:01:41
+-------------------------------------------------
+URL : https://friendscarrental.com//wp2/wp-includes/wlwmanifest.xml
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route wp2/wp-includes/wlwmanifest.xml could not be found.
+2023-07-22 20:01:42
+-------------------------------------------------
+URL : https://friendscarrental.com//site/wp-includes/wlwmanifest.xml
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route site/wp-includes/wlwmanifest.xml could not be found.
+2023-07-22 20:01:43
+-------------------------------------------------
+URL : https://friendscarrental.com//cms/wp-includes/wlwmanifest.xml
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route cms/wp-includes/wlwmanifest.xml could not be found.
+2023-07-22 20:01:44
+-------------------------------------------------
+URL : https://friendscarrental.com//sito/wp-includes/wlwmanifest.xml
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route sito/wp-includes/wlwmanifest.xml could not be found.
+2023-07-22 20:09:16
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 20:19:59
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 20:30:45
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 20:41:57
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 20:44:09
+-------------------------------------------------
+URL : https://www.friendscarrental.com/cars/msg_send
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php
+LINE : 1221
+MESSAGE: 
+2023-07-22 20:48:42
+-------------------------------------------------
+URL : https://3.28.244.244/mifs/.;/services/LogService
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route mifs/.;/services/LogService could not be found.
+2023-07-22 20:53:21
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 20:56:41
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_1.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_1.png could not be found.
+2023-07-22 20:56:41
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_3.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_3.png could not be found.
+2023-07-22 20:56:41
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_2.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_2.png could not be found.
+2023-07-22 20:59:50
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_1.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_1.png could not be found.
+2023-07-22 20:59:51
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_2.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_2.png could not be found.
+2023-07-22 20:59:51
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_3.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_3.png could not be found.
+2023-07-22 21:04:07
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 21:14:51
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 21:21:48
+-------------------------------------------------
+URL : https://3.28.244.244/console
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route console could not be found.
+2023-07-22 21:24:02
+-------------------------------------------------
+URL : https://3.28.244.244/ab2g
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route ab2g could not be found.
+2023-07-22 21:26:16
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 21:37:03
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 21:47:43
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 21:58:28
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 22:09:15
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 22:20:05
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 22:24:50
+-------------------------------------------------
+URL : https://3.28.244.244/_ignition/execute-solution
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 122
+MESSAGE: The GET method is not supported for route _ignition/execute-solution. Supported methods: POST.
+2023-07-22 22:30:49
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 22:41:37
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 22:52:12
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 23:03:57
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 23:06:53
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_1.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_1.png could not be found.
+2023-07-22 23:06:53
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_2.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_2.png could not be found.
+2023-07-22 23:06:53
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_3.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_3.png could not be found.
+2023-07-22 23:10:32
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_1.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_1.png could not be found.
+2023-07-22 23:10:32
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_2.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_2.png could not be found.
+2023-07-22 23:10:32
+-------------------------------------------------
+URL : https://friendscarrental.com/image/choose_3.png
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route image/choose_3.png could not be found.
+2023-07-22 23:14:57
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 23:25:52
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 23:37:14
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 23:47:54
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.
+2023-07-22 23:59:17
+-------------------------------------------------
+URL : https://friendscarrental.com/frontend/css/bootstrap.min.css.map
+FILE  : /home/friendscarrental/fcr-laravel10-project/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php
+LINE : 44
+MESSAGE: The route frontend/css/bootstrap.min.css.map could not be found.

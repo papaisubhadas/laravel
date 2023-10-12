@@ -1,0 +1,215 @@
+/* ==================================================================
+Home page
+ ================================================================== */
+
+.most_rent_car_list .most_rent_car .most_rent_car_details .car_full_details .car_service ul li .rigth_icon {
+    padding-left: 15px;
+    padding-right: 2px;
+}
+
+.most_rent_car_list .most_rent_car .most_rent_car_details .car_full_details .car_facilities ul li img {
+    padding-left: 10px;
+    padding-right: 0;
+}
+
+.most_rent_car_list .most_rent_car .most_rent_car_details .car_full_details .rent_counts .rent_day span p {
+    padding-left: 0;
+    padding-right: 10px;
+}
+
+.most_rent_car_list .most_rent_car .most_rent_car_details .car_full_details .rent_counts .rent_month {
+    padding-right: 10px;
+    margin-right: 10px;
+    border-right: 3px solid #EBEBEB;
+    border-left: none;
+}
+
+.tectimonial_slider,
+.fix_ar_dir {
+    direction: ltr;
+}
+
+.clients_testimonial .tectimonial_slider .our_client {
+    direction: rtl;
+    height: 240px;
+}
+
+.clients_testimonial .tectimonial_slider .our_client .client_name .profile span {
+    padding-right: 15px;
+}
+
+.clients_testimonial .tectimonial_slider .our_client .client_name .profile img {
+    margin-right: 0;
+}
+
+.clients_testimonial .tectimonial_slider .cl_review {
+    padding: 10px 0;
+}
+
+.pr-15 {
+    padding-left: 15px;
+    padding-right: 0;
+}
+
+.offcanvas-body .navbar-nav {
+    padding: 0;
+}
+
+.dropdown_content_quick a {
+    text-align: right;
+}
+
+.padding_left_fix {
+    padding-left: 0;
+    padding-right: 8px;
+}
+
+.uk.dropdown-toggle::after {
+    margin-left: 0;
+    margin-right: 11px;
+}
+
+label.wp_label::before {
+    margin-left: 10px;
+    margin-right: 0;
+}
+
+.iti__arrow {
+    margin-left: 0;
+    margin-right: 6px;
+}
+
+.iti__flag-box,
+.iti__country-name {
+    margin-left: 6px;
+    margin-right: 0;
+}
+
+.accordion-button::after {
+    margin-left: 0 !important;
+    margin-right: auto !important;
+}
+
+.fa-twitter.social_media_fix.mx-0 {
+    margin-right: 20px !important;
+}
+
+.most_rent_car_list .most_rent_car .most_rent_car_details .car_full_details .rent_counts .rent_day span {
+    padding-left: 10px;
+    padding-right: 0;
+}
+.new_title_h3 {
+    direction: rtl;
+}
+.dir_ltr{ direction: ltr; }
+.iti--allow-dropdown .iti__flag-container,
+.iti--separate-dial-code .iti__flag-container {
+    right: 0 !important;
+}
+.chat-popup {
+    max-width: 350px;
+}
+.wp_form .wp_lang_sec ul li a .wp_lang .wp_icon {
+    margin-left: 20px;
+    margin-right: 0;
+}
+.fa-arrow-right {
+    transform: rotate(180deg);
+}
+/* ==================================================================
+contact-Us
+================================================================== */
+
+.company_contact_us .contact_us .contact_info_detail .contact_txt .contact_icon {
+    margin-left: 10px;
+    margin-right: 0;
+}
+
+/* ==================================================================
+car-details
+================================================================== */
+
+.btn_fix_gold {
+    padding: 16px !important;
+}
+
+.model_fix {
+    padding-left: 5px;
+    padding-right: 18px;
+}
+
+.border_right_fix {
+    border-left: 1px solid #5F5F5F;
+    border-right: none;
+}
+
+.padding_b_fix {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+#error .buttons-main a svg {
+    margin-left: 5px;
+    margin-right: 0;
+}
+
+#error #btns-line ul li:last-child {
+    margin-right: 20px;
+}
+
+.uk {
+    text-align: right;
+}
+
+.dropdown_bg_fix {
+    width: 181px;
+}
+
+.dropdown_fix_aed {
+    width: 180px !important;
+}
+
+.iti__selected-flag {
+    position: inherit;
+}
+
+.flex_d_fix {
+    flex-direction: row-reverse;
+}
+
+.iti__selected-flag {
+    position: inherit !important;
+}
+
+label.wp_label::after {
+    right: 6px !important;
+}
+
+.most_rent_car_list .most_rent_car .rent_car_img {
+    direction: ltr !important;
+}
+
+.fix_arbc {
+    /* text-align: end; */
+    direction: rtl;
+}
+
+.most_rent_car_list .most_rent_car .most_rent_car_details .car_full_details {
+    direction: rtl !important;
+}
+
+.breadcrumb-item::before {
+    transform: rotate(180deg) !important;
+    padding: 1px 10px !important;
+    float: right !important;
+}
+
+@media (max-width: 991px) {
+
+    .coupe {
+        padding: 0px 11px 0 0px !important;
+    }
+
+}
+.open-button { right: inherit !important;  left: 23px !important; }

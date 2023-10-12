@@ -1,0 +1,84 @@
+{
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.ttf": {
+    "file": "assets/fa-brands-400-2ef6fdde.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2": {
+    "file": "assets/fa-brands-400-f4617423.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.ttf": {
+    "file": "assets/fa-regular-400-12dea17b.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2": {
+    "file": "assets/fa-regular-400-7ba24c41.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.ttf": {
+    "file": "assets/fa-solid-900-67a880b4.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2": {
+    "file": "assets/fa-solid-900-e2c5cf54.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.ttf": {
+    "file": "assets/fa-v4compatibility-8d9500e8.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.woff2": {
+    "file": "assets/fa-v4compatibility-7c377405.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.woff2"
+  },
+  "public/frontend.css": {
+    "file": "assets/frontend-8ea280f5.css",
+    "isEntry": true,
+    "src": "public/frontend.css"
+  },
+  "public/frontend.js": {
+    "file": "assets/frontend-4ed993c7.js",
+    "isEntry": true,
+    "src": "public/frontend.js"
+  },
+  "public/frontend/image/arrow_back_to_top.png": {
+    "file": "assets/arrow_back_to_top-9fa84328.png",
+    "src": "public/frontend/image/arrow_back_to_top.png"
+  },
+  "public/frontend/image/car_rent_rule_bg_phone.png": {
+    "file": "assets/car_rent_rule_bg_phone-d7bcfa90.png",
+    "src": "public/frontend/image/car_rent_rule_bg_phone.png"
+  },
+  "public/frontend/image/toggle.png": {
+    "file": "assets/toggle-4cb20e64.png",
+    "src": "public/frontend/image/toggle.png"
+  },
+  "public/frontend/image/webp/car_rent_bg.webp": {
+    "file": "assets/car_rent_bg-680aacef.webp",
+    "src": "public/frontend/image/webp/car_rent_bg.webp"
+  },
+  "public/frontend/image/webp/car_rent_rule_bg.webp": {
+    "file": "assets/car_rent_rule_bg-e95f26c3.webp",
+    "src": "public/frontend/image/webp/car_rent_rule_bg.webp"
+  },
+  "resources/css/app-frontend.css": {
+    "file": "assets/app-frontend-1678edb8.css",
+    "isEntry": true,
+    "src": "resources/css/app-frontend.css"
+  },
+  "resources/js/app-backend.js": {
+    "file": "assets/app-backend-b9050fa8.js",
+    "isEntry": true,
+    "src": "resources/js/app-backend.js"
+  },
+  "resources/js/app-frontend.js": {
+    "file": "assets/app-frontend-0898a19f.js",
+    "isEntry": true,
+    "src": "resources/js/app-frontend.js"
+  },
+  "resources/sass/app-backend.scss": {
+    "file": "assets/app-backend-ad8dd45f.css",
+    "isEntry": true,
+    "src": "resources/sass/app-backend.scss"
+  }
+}
