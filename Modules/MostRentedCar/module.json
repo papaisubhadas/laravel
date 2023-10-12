@@ -1,0 +1,13 @@
+{
+    "name": "MostRentedCar",
+    "alias": "mostrentedcar",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\MostRentedCar\\Providers\\MostRentedCarServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

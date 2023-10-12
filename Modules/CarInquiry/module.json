@@ -1,0 +1,13 @@
+{
+    "name": "CarInquiry",
+    "alias": "carinquiry",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\CarInquiry\\Providers\\CarInquiryServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,16 @@
+{
+    "Article": true,
+    "Tag": true,
+    "Comment": true,
+    "Car": true,
+    "CarType": true,
+    "CarInquiry": true,
+    "CarBrand": true,
+    "MostRentedCar": true,
+    "BannerSlideshow": true,
+    "Deal": true,
+    "Page": true,
+    "Faq": true,
+    "Testimonial": true,
+    "Currency": true
+}

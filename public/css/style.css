@@ -1,0 +1,1332 @@
+/* Red Hat Display font */
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,500;1,600;1,700;1,800;1,900&display=swap');
+/* font-family: 'Red Hat Display', sans-serif; */
+
+/* Light 300
+Light 300 Italic
+Regular 400
+Medium 500
+Medium 500 Italic
+SemiBold 600
+SemiBold 600 Italic
+Bold 700
+Bold 700 Italic
+ExtraBold 800
+ExtraBold 800 Italic
+Black 900
+Black 900 Italic */
+
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Red Hat Display', sans-serif;
+    color: var(--dark);
+}
+
+h1,
+h2,
+h3,
+h4,
+h4,
+h5,
+h6,
+p {
+    margin-bottom: 0 !important;
+}
+
+a {
+    list-style: none;
+}
+
+:root {
+    --white: #ffffff;
+    --white-gray: #DDDDDD;
+    --dark: #171A1F;
+    --light-dark: #636872;
+    --gold-gradiant: linear-gradient(180deg, #FDD453 0%, #935019 100%);
+    --pur-golden: #CBAB53;
+    --golden-color: #FDD453;
+    --golden-light-color: #fff489;
+    --car-detail-bg-color: #FFFDEA;
+    --night-dark:#505050;
+}
+
+/**************************************** header css start ****************************************/
+
+.navbar-toggler-icon-fix {
+    background-image: url(../assets/image/toggle.png);
+    display: inline-block;
+    width: 2.5em;
+    height: 2.5em;
+    vertical-align: middle;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+
+.navbar-toggler:focus {
+    box-shadow: none;
+}
+
+.navbar-toggler {
+    border: none;
+}
+
+.navbar-nav .nav-link.active,
+.navbar-nav .show>.nav-link {
+    color: var(--white);
+    padding: 20px 30px;
+}
+
+li.nav-item:hover a {
+    color: var(--white);
+}
+
+.active_fix {
+    background: var(--gold-gradiant);
+}
+
+.nav-link {
+    font-size: 15px;
+    color: #171A1F;
+    padding: 20px 30px;
+    font-weight: 700;
+}
+
+.nav-item {
+    padding: 0 23px;
+}
+
+.bg_color {
+    background-color: #2E2E2E;
+}
+
+.nav-item:hover {
+    background: var(--gold-gradiant);
+    color: var(--white);
+
+}
+
+.support {
+    color: var(--white);
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+}
+
+.support_icon {
+    margin: 0 18px;
+}
+
+.email_info_fix {
+    color: var(--white);
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.email_info_fix:hover {
+    color: var(--pur-golden);
+}
+
+.uk {
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.social_media_fix {
+    font-size: 25px;
+    margin-right: 20px;
+}
+
+.map_fix {
+    height: 100%;
+    width: 100%;
+}
+
+.navbar_none_m {
+    display: none;
+}
+
+/**************************************** header css end ****************************************/
+
+/**************************************** Footer css start ****************************************/
+
+
+.footer-section {
+    background: var(--dark);
+    position: relative;
+}
+
+.footer-cta {
+    border-bottom: 1px solid #373636;
+}
+
+.single-cta i {
+    color: #ff5e14;
+    font-size: 30px;
+    float: left;
+    margin-top: 8px;
+}
+
+.cta-text {
+    padding-left: 15px;
+    display: inline-block;
+}
+
+.cta-text h4 {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 2px;
+}
+
+.cta-text span {
+    color: #757575;
+    font-size: 15px;
+}
+
+.footer-content {
+    position: relative;
+    z-index: 2;
+}
+
+.footer-pattern img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 330px;
+    background-size: cover;
+    background-position: 100% 100%;
+}
+
+.footer-logo {
+    margin-bottom: 30px;
+}
+
+.footer-logo img {
+    max-width: 200px;
+}
+
+.footer-text p {
+    margin-bottom: 14px;
+    font-size: 14px;
+    color: #7e7e7e;
+    line-height: 28px;
+}
+
+.footer-social-icon span {
+    color: #fff;
+    display: block;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 20px;
+}
+
+.footer-social-icon a {
+    color: #fff;
+    font-size: 16px;
+    margin-right: 15px;
+}
+
+.footer-social-icon i {
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    line-height: 38px;
+    border-radius: 50%;
+}
+
+.facebook-bg {
+    background: #3B5998;
+}
+
+.twitter-bg {
+    background: #55ACEE;
+}
+
+.google-bg {
+    background: #DD4B39;
+}
+
+.footer-widget-heading h3 {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 40px;
+    position: relative;
+}
+
+
+.footer-widget ul li {
+    display: inline-block;
+    margin-bottom: 12px;
+}
+
+.footer-widget ul li a:hover {
+    color: var(--pur-golden);
+}
+
+.footer-widget ul li a {
+    color: var(--white);
+    text-transform: capitalize;
+    text-decoration: none;
+}
+
+.subscribe-form {
+    position: relative;
+    overflow: hidden;
+}
+
+.subscribe-form input {
+    width: 100%;
+    padding: 14px 28px;
+    background: #2E2E2E;
+    border: 1px solid #2E2E2E;
+    color: #fff;
+}
+
+.subscribe-form button {
+    position: absolute;
+    right: 0;
+    background: #ff5e14;
+    padding: 13px 20px;
+    border: 1px solid #ff5e14;
+    top: 0;
+}
+
+.subscribe-form button i {
+    color: #fff;
+    font-size: 22px;
+    transform: rotate(-6deg);
+}
+
+.copyright-area {
+    background: var(--dark);
+    padding-bottom: 25px;
+}
+
+.copyright-text p {
+    margin: 0;
+    font-size: 14px;
+    color: #878787;
+}
+
+
+.footer-menu li {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.b_radius {
+    border-radius: 11px;
+}
+
+
+
+.padding_left_fix {
+    padding-left: 5px;
+}
+
+.w_fix {
+    width: 70%;
+    display: inline-block;
+}
+
+.w_85 {
+    border-radius: 11px;
+    width: 84%;
+}
+
+
+.iframe-container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+    /* Ratio 16:9 ( 100%/16*9 = 56.25% ) */
+}
+
+.iframe-container>* {
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+/**************************************** Footr css end ****************************************/
+.text-fix{
+    text-align: left;
+}
+#button {
+    display: inline-block;
+    background-image: url(../assets/image/arrow_back_to_top.png);
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    border-radius: 4px;
+    text-decoration: none;
+    position: fixed;
+    bottom: 30px;
+    right: 11px;
+    transition: background-color .3s,
+        opacity .5s, visibility .5s;
+    opacity: 0;
+    visibility: hidden;
+    z-index: 1000;
+}
+
+
+
+#button:hover {
+    cursor: pointer;
+}
+
+#button.show {
+    opacity: 1;
+    visibility: visible;
+}
+
+/* Styles for the content section */
+
+.content {
+    width: 77%;
+    margin: 50px auto;
+    font-family: 'Merriweather', serif;
+    font-size: 17px;
+    color: #6c767a;
+    line-height: 1.9;
+}
+
+
+/* car details css */
+
+.color_hr {
+    border-top: 2px solid var(--golden-color);
+}
+
+.breadcrumb_fix a {
+    color: var(--pur-golden);
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.breadcrumb_fix_active {
+    font-weight: 600;
+}
+
+.bg_color_rent {
+    background-color: var(--car-detail-bg-color);
+    padding: 30px;
+    border: 1px solid #EAE7CB;
+    border-radius: 11px;
+}
+
+.rent_lamborghini {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.car_lambor ul {
+    padding: 0;
+    margin-bottom: 0;
+    display: flex;
+}
+
+.car_lambor ul li {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    color: #636872;
+    line-height: 32px;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.car_lambor ul li .rigth_icon {
+    padding-right: 15px;
+    color: var(--pur-golden);
+    font-size: 18px;
+}
+
+.lembor_Deposit {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+
+/* Preview */
+.xzoom-preview {
+    /*border: 1px solid #888;*/
+    /*background: #2f4f4f;*/
+    box-shadow: -0px -0px 10px rgba(0, 0, 0, 0.50);
+}
+
+/* Lens */
+.xzoom-lens {
+    border: 2px solid #ccc;
+    cursor: crosshair;
+}
+
+.gallery {
+    padding-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.gallery a img {
+    width: 110px;
+    padding: 8px;
+    border-radius: 8px;
+    background: #F1F6F9;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    margin: 7px;
+    border: 2px solid #9BA4B4;
+}
+
+
+
+.fix_bg_set {
+    background-color: var(--dark);
+    color: var(--white);
+    padding: 15px 20px;
+    border-radius: 10px;
+}
+
+.xzoom-thumbs .xzoom-gallery5:hover {
+    border: 1px solid var(--golden-color);
+}
+
+img#xzoom-magnific {
+    max-width: 100%;
+}
+
+.fix_text {
+    color: var(--pur-golden);
+font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 20px;
+}
+.branch{
+    font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 17px;
+}
+.model_fix {
+    font-weight: 700;
+    line-height: 18px;
+    padding-left: 18px;
+    font-size: 18px;
+    padding-right: 5px;
+}
+.model_fix_day {
+font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 18px;
+}
+
+.padding_fix {
+    padding-bottom: 7px;
+}
+
+.flag_fix {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.flag_fix_final {
+    padding: 10px;
+    border: 1px solid #E2E2E2;
+    border-radius: 5px;
+}
+
+.flag_fix_final a {
+    color: var(--dark);
+    text-decoration: none;
+}
+
+.fix-daily {
+    background-color: #454646;
+    border-radius: 11px;
+    padding: 20px 0;
+}
+
+.border_right_fix {
+    border-right: 1px solid #5F5F5F;
+}
+
+.delivery_pickup {
+font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 28px;
+}
+
+.faq {
+    font-weight: 700;
+}
+
+.faq_size {
+text-transform: capitalize;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 25px;
+}
+
+.accordion_body_fix {
+    border-radius: 10px !important;
+    border: 1px solid #E7E7E7;
+}
+
+.accordion_body_fix_active {
+    box-shadow: 0px 0px 20px #EAEAEA;
+    border-radius: 10px !important;
+}
+
+.accordion-flush .accordion-item {
+    border: 1px solid #E7E7E7;
+}
+
+.accordion-flush .accordion-item:first-child {
+    border: 1px solid #E7E7E7;
+}
+
+.accordion-flush .accordion-item:last-child {
+    border: 1px solid #E7E7E7;
+
+}
+
+.accordion {
+    --bs-accordion-border-color: none !important;
+}
+
+.accordion-button:not(.collapsed) {
+    color: var(--dark);
+    background-color: transparent;
+}
+
+.accordion-button:focus {
+    box-shadow: none;
+}
+
+.accordion-button::after {
+    transform: rotate(270deg);
+}
+
+.accordion-flush .accordion-item .accordion-button,
+.accordion-flush .accordion-item .accordion-button.collapsed {
+    color: var(--night-dark);;
+    font-size: 17px;
+    font-weight: 600;
+    font-style: normal;
+    line-height: 17px;
+}
+
+.accordion-header {
+    padding: 3px;
+}
+
+.reanting-fix {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 25px;
+    color: var(--night-dark);
+}
+.read_more_fix{
+        color: var(--pur-golden);
+            font-style: normal;
+            font-weight: 700;
+            font-size: 14px;
+            line-height: 14px;
+}
+.read_more_fix:hover{
+    color: var(--night-dark);
+}
+.contact_info_fix .contact_info {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 30px;
+}
+
+.contact_info_fix .contact_info a {
+    background-color: var(--pur-golden);
+    padding: 30px 0;
+    width: 100%;
+    text-align: center;
+    min-height: 55px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contact_info_fix .contact_info a.call {
+    border-radius: 30px 0 0 30px;
+}
+
+.contact_info_fix .contact_info a.whatsapp {
+    margin: 0 5px;
+    background-color: #5CB85C;
+}
+
+.contact_info_fix .contact_info a.msg_send {
+    background-color: #818181;
+    border-radius: 0 30px 30px 0;
+}
+
+.carspecs_bg{
+    border: 1px solid #DDDDDD;
+    padding: 20px;
+    border-radius: 10px;
+}
+.car_specs{
+    font-size: 23px;
+    font-weight: 700;
+}
+.coupe{
+    font-size: 17px;
+    font-weight: 600;
+    color: var(--night-dark);;
+}
+
+.border_left_fix_car{
+    border-left: 1px solid #E7E7E7;
+    padding-left: 18px;
+    padding-right: 18px;
+}
+.rd_btn_fix{
+    margin-top: 20px;
+}
+.documents{
+    font-size: 30px;
+    font-weight: 700;
+}
+.foreign_bg{
+    box-shadow: 0px 0px 20px #EAEAEA;
+        border-radius: 10px;
+        padding: 15px;
+}
+.foreign_visitors{
+    color: var(--pur-golden);
+    font-size: 20px;
+    font-weight: 700;
+}
+.finder{
+    color: var(--pur-golden);
+font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 27px;
+}
+.finder:hover {
+    color: var(--pur-golden);
+}
+.font_w_fix{
+    font-weight: 600;
+    font-size: 17px;
+    color: var(--night-dark);;
+}
+
+.img_fix_positions{
+position: absolute;
+left: 155px;
+top: 25px;
+}
+
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+    z-index: 500;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #fff;
+    min-width: 300px;
+    box-shadow: 0px 0px 20px #EAEAEA;
+    color: black;
+    z-index: 1;
+    border-radius: 5px;
+}
+
+.dropdown-content a {
+    color: black !important;
+    padding: 3px 16px;
+    text-decoration: none;
+    display: block;
+    font-weight: 600;
+}
+
+.dropdown-content:hover {
+    background-color: #fff;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.cursor_pointer{
+    cursor: pointer;
+}
+.link-fix{
+    font-weight: 700 !important;
+}
+.dropdown_list_fix:hover::before{
+    content: " ";
+        display: block;
+        height: 0;
+        width: 0;
+        opacity: 0;
+        -webkit-transition: opacity 0.3s;
+        -o-transition: opacity 0.3s;
+        transition: opacity 0.3s;
+        bottom: 0px;
+        left: 37%;
+        opacity: 1;
+        position: absolute;
+        z-index: 1002;
+        border: 10px solid #fff;
+        border-color: rgb(255 255 255) #ffffff00;
+        border-top-width: 0;
+        margin-left: -9px;
+}
+
+.min_width_fix{
+    min-width: 883px !important;
+}
+.min_width_fix_cartype {
+    min-width: 700px !important;
+}
+.seven_quick_link:hover {
+    color: var(--pur-golden) !important;
+}
+section.contact_info_fix.d-none.d-md-block{
+    margin: 39px 0;
+}
+.pr-15 {
+    padding-right: 15px;
+}
+.social_media_fix{
+color: var(--pur-golden);
+}
+.social_media_fix:hover{
+    color: #fff;
+}
+.social_media_fix_mobile {
+    color: var(--pur-golden);
+    padding-right: 13px;
+    padding-left: 5px;
+    font-size: 22px;
+}
+
+.social_media_fix_mobile:hover {
+    color: #000;
+}
+#nav_bar {
+    z-index: 800;
+}
+.urus_fix h4:hover {
+color: var(--pur-golden) !important;
+}
+.nav_container{
+    display: flex;
+    margin: 0 auto;
+    width: 1340px;
+}
+.new_navbar_nav{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.z_index_fix{
+    z-index: 999;
+}
+
+.ellipsis {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.dropdown_z_index_fix{
+    z-index: 0 !important;
+}
+.dropdown_bg_fix{
+    background-color: #2E2E2E;
+}
+.fix_bg_issue:hover{
+    background: transparent;
+}
+.driving_licenses_fix{
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 40px;
+}
+.margin_top_40{
+    margin-top: 40px;
+}
+.driving_contry_font_fix{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 16px;
+}
+.btn_fix_gold{
+        padding: 16px 0px 16px 16px !important;
+}
+.card_title_fix{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 27px;
+}
+.fix_height {
+    display: block;
+    height: 424 px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 11px;
+}
+.img_mt_fix {
+    margin-top: 15px;
+}
+.logo_max_width_200{
+    max-width: 200px;
+}
+.icon_text_fix{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    color: var(--dark);
+    display: flex;
+    align-items: center;
+}
+.h_fix{
+    height: 300px;
+}
+.padding_b_fix{
+    padding-bottom: 1rem;
+}
+.carousel-caption {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    color: #fff;
+    text-align: center;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.rent_luxury_car{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 80px;
+}
+.fill_inquiries{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+/* comman CSS */
+.gold_btn { cursor: pointer; font-weight: 700; background: linear-gradient(180deg, #FDD453 0%, #935019 100%); padding: 16px 30px; border-radius: 5px; font-size: 16px; line-height: 16px; color: var(--white); border: none; }
+.gold_btn:hover { transition: 1s all; background: linear-gradient(188deg, #FDD453 0%, #935019 100%); }
+input { outline: none; }
+textarea { outline: none; }
+select { outline: none; }
+.navbar-fixed { position: fixed; top: 30px; width: 100%; z-index: 9999; background-color: var(--dark); transform: translateY(-30px); transition: 0.6s all; box-shadow: rgba(99, 99, 99, 0.1) 0px 2px 8px 0px; }
+.navbar-fixed * { color: var(--white); }
+
+
+/*  */
+.scrollable-element {
+    scrollbar-color: red yellow;
+  }
+
+
+/* ======================================================================================================================================================================================================================================== */
+                            /* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< CSS START SHUBHAM <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+/* ========================================================================================================================================================================================================================================  */
+
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Home page Start <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< main_banner Start <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+.main_banner { position: relative; }
+/* .main_banner .banner_image { height: 548px; background-image: url(../assets/image/banner_image.png); background-position: center; background-repeat: no-repeat; background-size: cover; width: 100%; } */
+.main_banner .banner_txt { position: absolute; text-align: center; top: 50%; left: 50%; transform: translate(-50%, -50%); }
+.main_banner .banner_txt h1 { font-size: 80px; font-weight: bold; color: var(--white); text-transform: uppercase; }
+.main_banner .banner_txt p { font-size: 20px; color: var(--white); line-height: 20px; font-weight: 500; padding: 30px 0 24px 0; }
+.main_banner .banner_txt .banner_car { display: none; }
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< main_banner End <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Car Book form Start <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+.car_book { padding: 40px 0; background-color: #F0F0F0; }
+.car_book .car_book_form form { display: flex; flex-wrap: wrap; justify-content: space-between; }
+.car_book .car_book_form form .form_field label { padding-bottom: 12px; color: var(--dark); font-size: 15px; text-transform: uppercase; font-weight: 600; }
+.car_book .car_book_form form .form_field input {width: 190px; padding: 0 16px; height: 48px; background: var(--white); border: 1px solid var(--white-gray); border-radius: 5px; font-size: 15px; font-weight: 400; color: var(--light-dark); }
+.car_book .car_book_form form .form_field.car_type .dropdown a.dropdown-toggle { width: 190px; padding: 0 16px; height: 48px; background: var(--white); border: 1px solid var(--white-gray); border-radius: 5px; font-size: 15px; font-weight: 400; color: var(--light-dark); line-height: 48px; text-align: start; }
+.car_book .car_book_form form .form_field.car_type .dropdown { width: 90%; }
+.car_book .car_book_form form .form_field.car_type ul { border: none;  position: relative; width: 190px; padding: 10px; margin-top: 10px !important; }
+.car_book .car_book_form form .form_field.car_type ul::before { content: " "; display: block; height: 0; width: 0; opacity: 0; -webkit-transition: opacity 0.3s; -o-transition: opacity 0.3s; transition: opacity 0.3s; bottom: 0px; right: 20px; top: -10px; opacity: 1; position: absolute; z-index: 1002; border: 10px solid #fff;   border-top-color: rgb(255, 255, 255);   border-top-width: 10px;   border-right-color: rgb(255, 255, 255);   border-bottom-color: rgb(255, 255, 255);   border-left-color: rgb(255, 255, 255); border-color: rgb(255 255 255) #ffffff00; border-top-width: 0; margin-left: -9px; }
+.car_book .car_book_form form .form_field.car_type ul li { padding-bottom: 12px; }
+.car_book .car_book_form form .form_field.car_type ul li a { display: flex; align-content: center; }
+.car_book .car_book_form form .form_field.car_type ul li a .car_img_type { width: 50px; }
+.car_book .car_book_form form .form_field.phone input { border-radius: 0 5px 5px 0; }
+.car_book .car_book_form form .form_field.phone .dropdown .dropdown-toggle { display: flex; align-items: center; height: 48px; background: #E2E2E2; border: 1px solid #C6C6C6; border-radius: 5px 0px 0px 5px }
+.car_book .car_book_form form .form_field.phone .dropdown .dropdown-menu { min-width: 70px; }
+.car_book .car_book_form form .form_field.date { position: relative; }
+.car_book .car_book_form form .form_field.date img { position: absolute; right: 20px; top: 47px; }
+.car_book .car_book_form form .book_now_btn { margin-top: 35px; }
+/* Date piker css */
+.flatpickr-day { margin: 2px !important; }
+.flatpickr-calendar { border-radius: 20px !important; background-color: var(--white) !important; border: none !important; width: 400px !important; }
+.flatpickr-weekday { color: var(--pur-golden) !important; font-size: 15px !important; line-height: 15px !important; font-weight: 500 !important; font-family: 'Red Hat Display' !important; text-transform: uppercase !important; }
+.flatpickr-rContainer { width: 100% !important; padding: 20px !important;  }
+.flatpickr-days { width: 100% !important; overflow: visible !important; }
+.dayContainer { width: 100% !important; min-width: 100% !important; }
+.flatpickr-day.startRange,  .flatpickr-day.endRange, .flatpickr-day.today { background-color: var(--pur-golden) !important; border-radius: 3px !important; border-color: var(--white) !important; }
+.flatpickr-day:hover, .flatpickr-day.inRange { box-shadow: none !important; background-color: #FEFBE1 !important; border: none !important; border-radius: 3px !important; }
+.flatpickr-day.today:hover { color: var(--dark) !important; }
+.flatpickr-day.startRange:hover, .flatpickr-day.endRange:hover { color: var(--dark) !important; }
+.flatpickr-day.today { color: var(--white) !important; }
+.flatpickr-current-month .flatpickr-monthDropdown-months {-webkit-appearance: none !important;  appearance: none !important; background-color: var(--white) !important; line-height: 20px !important; font-size: 20px !important;  font-weight: 700 !important; color: var(--dark) !important; width: auto !important; text-align: center !important;  }
+.flatpickr-current-month .flatpickr-monthDropdown-months:hover, .numInputWrapper:hover { background-color: var(--white) !important; }
+.flatpickr-current-month input.cur-year { background-color: var(--white) !important; line-height: 20px !important; font-size: 20px !important;  font-weight: 700 !important; color: var(--dark) !important; width: auto !important;  }
+.arrowUp, .arrowDown { display: none !important; }
+.flatpickr-current-month input.cur-year input[type=number]::-webkit-inner-spin-button,
+.flatpickr-current-month input.cur-year input[type=number]::-webkit-outer-spin-button { -webkit-appearance: none; -moz-appearance: none; appearance: none; margin: 0; }
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Car Book form End <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< car_category Start <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+.car_category { padding: 40px 0; }
+.car_category .car_item_box { text-align: center; padding: 6px; border: 2px solid #E7E7E7; border-radius: 10px; background: #FFFFFF; }
+.car_category .car_item_box .car_img { height: 100px; }
+.car_category .car_item_box.active_car { background-image: var(--gold-gradiant); border: none; }
+.car_category .car_item_box.active_car > p { color: var(--white); }
+.car_category .car_item_box:hover { transition: 0.3s all; background-image: var(--gold-gradiant); }
+.car_category .car_item_box:hover > p { color: var(--white); }
+.car_category .car_item_box p { font-weight: 600; font-size: 17px; color: var(--dark); margin-top: -10px; padding-bottom: 4px; }
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< car_category End <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< offer_section Start <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+.offer_section .offer_deal { display: flex; }
+.offer_section .offer_deal .offer_section_txt { padding: 29px 40px; width: 70%; background: #303235; border-radius: 10px 0px 0px 10px; display: flex;  align-items: center; justify-content: space-between; }
+.offer_section .offer_deal .offer_section_txt .offer_txt { text-align: center; text-transform: uppercase; }
+.offer_section .offer_deal .offer_section_txt .offer_txt p {font-weight: 600; font-size: 18px; color: var(--white); }
+.offer_section .offer_deal .offer_section_txt .offer_txt h1 {font-weight: 900; font-size: 50px; line-height: 50px; color: var(--golden-color); padding-bottom: 16px; }
+.offer_section .offer_deal .offer_section_txt .offer_txt h2 { width: 472px; margin: 0 auto; font-weight: 700; font-size: 40px; line-height: 50px; color: var(--white); }
+.offer_section .offer_deal .offer_image { width: 30%; position: relative; }
+.offer_section .offer_deal .offer_image::after { content: ""; position: absolute; left: 0; width: 14px; height: 251px; background-color: var(--golden-color); }
+.offer_section .offer_deal .offer_image img { width: 100%; height: 251px; }
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< offer_section End <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< car_brand Start <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+.car_brand { padding: 40px 0px; }
+.car_brand .car_brand_items { position: relative; padding: 0 60px; }
+.car_brand .car_brand_items .car_name { text-align: center; }
+.car_brand .car_brand_items .car_name p { color: var(--dark); font-size: 15px; font-weight: 600; }
+.car_brand .car_brand_items .car_name .car_brand_img { height: 120px; width: auto; display: flex; align-items: center; }
+.car_brand .car_brand_items .car_name .car_brand_img img { width: 100%; padding: 10px 26px; }
+.car_brand_img img.cus_padding { padding: 10px 16px !important; }
+.car_brand .car_brand_items .owl-nav .owl-prev { position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 26px; font-weight: 700; color: var(--white); width: 40px; height: 40px; border-radius: 20px; background-image: var(--gold-gradiant); }
+.car_brand .car_brand_items .owl-nav .owl-next { position: absolute; right: 0; top: 50%; transform: translateY(-50%); font-size: 26px; font-weight: 700; color: var(--white); width: 40px; height: 40px; border-radius: 20px; background-image: var(--gold-gradiant); }
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< car_brand End <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< most rent car Start <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+.most_rent_car_list { background-image: url(../assets/image/car_rent_bg.png); background-position: center; overflow: hidden; width: 100%; padding: 40px; margin-bottom: 40px; }
+.most_rent_car_list .main_title { font-size: 40px; font-weight: 700; color: var(--dark); line-height: 40px; text-align: center; padding-bottom: 40px; }
+.most_rent_car_list .most_rent_car { padding-bottom: 20px; }
+.most_rent_car_list .most_rent_car .rent_car_img { position: relative; border-radius: 30px 30px 0 0; overflow: hidden; }
+.most_rent_car_list .most_rent_car .rent_car_img .special_offer { z-index: 10; position: absolute; top: 0; left: 0; width: 74px; }
+.most_rent_car_list .most_rent_car .rent_car_img p.delivery_txt { z-index: 10; position: absolute; top: 10px; right: 15px; text-transform: uppercase; line-height: 13px; font-size: 14px; font-weight: 700; color: var(--white);  }
+.most_rent_car_list .most_rent_car .rent_car_img img { width: 100%; }
+.most_rent_car_list .most_rent_car .most_rent_car_details { background: #FFFFFF; overflow: hidden; border: 1px solid #DADADA; box-shadow: 0px 5px 25px #E9E9E9; border-radius: 0px 0px 30px 30px; }
+.most_rent_car_list .most_rent_car .most_rent_car_details .car_full_details { padding: 20px; }
+.most_rent_car_list .most_rent_car .most_rent_car_details .car_full_details .brand_name { display: flex; align-items: center; justify-content: space-between; }
+.most_rent_car_list .most_rent_car .most_rent_car_details .car_full_details .brand_name h4 { color: var(--dark); font-size: 20px; line-height: 18px; font-weight: 700;  }
+.most_rent_car_list .most_rent_car .most_rent_car_details .car_full_details .brand_name img { width: 32px; min-height: 36px; }
+.most_rent_car_list .most_rent_car .most_rent_car_details .car_full_details .rent_counts { padding: 20px 0; border-bottom: 1px solid #DADADA; display: flex; align-items: center;  }
+.most_rent_car_list .most_rent_car .most_rent_car_details .car_full_details .rent_counts .rent_day { padding-right: 30px; }
+.most_rent_car_list .most_rent_car .most_rent_car_details .car_full_details .rent_counts .rent_day p del { color: #636872; line-height: 15px; font-size: 15px; font-weight: 400;  }
+.most_rent_car_list .most_rent_car .most_rent_car_details .car_full_details .rent_counts .rent_day span { padding-right: 10px; display: flex; align-items: center; color: var(--pur-golden); line-height: 18px; font-size: 18px; font-weight: 800;  }
+.most_rent_car_list .most_rent_car .most_rent_car_details .car_full_details .rent_counts .rent_day span p { padding-left: 10px; color: #636872; line-height: 14px; font-size: 12px; font-weight: 600;  }
+.most_rent_car_list .most_rent_car .most_rent_car_details .car_full_details .rent_counts .rent_month { padding-left: 30px; padding-right: 0; border-left: 3px solid #EBEBEB; }
+.most_rent_car_list .most_rent_car .most_rent_car_details .car_full_details .car_facilities ul { margin-bottom: 0; padding: 20px 0; display: flex; justify-content: space-between; align-items: center; }
+.most_rent_car_list .most_rent_car .most_rent_car_details .car_full_details .car_facilities ul li { display: flex; align-items: center; list-style: none; line-height: 14px; font-size: 14px; font-weight: 500; color: var(--dark);}
+.most_rent_car_list .most_rent_car .most_rent_car_details .car_full_details .car_facilities ul li img { padding-right: 10px; }
+.most_rent_car_list .most_rent_car .most_rent_car_details .car_full_details .car_service ul { padding: 0; margin-bottom: 0; }
+.most_rent_car_list .most_rent_car .most_rent_car_details .car_full_details .car_service ul li { display: flex; align-items: center; list-style: none; color: #636872; line-height: 32px; font-size: 15px; font-weight: 400; }
+.most_rent_car_list .most_rent_car .most_rent_car_details .car_full_details .car_service ul li .rigth_icon { padding-right: 15px; color: var(--pur-golden); font-size: 18px; }
+.most_rent_car_list .most_rent_car .contact_info { display: flex; align-items: center; justify-content: space-between; }
+.most_rent_car_list .most_rent_car .contact_info a { background-color: var(--dark); padding: 10px 0; width: 100%; text-align: center; min-height: 55px; display: flex; align-items: center; justify-content: center; }
+.most_rent_car_list .most_rent_car .contact_info a img { width: auto; height: 22px; }
+.most_rent_car_list .most_rent_car .contact_info a.call { background-color: var(--pur-golden); }
+.most_rent_car_list .most_rent_car .contact_info a.whatsapp { margin: 0 5px; background-color: #5CB85C; }
+.most_rent_car_list .most_rent_car .rent_car_img button { opacity: 1; }
+.most_rent_car_list .most_rent_car .rent_car_img span .slid_icon { font-size: 22px; font-size: 800; color: #fff; }
+
+.car_inq_modal .modal-body { padding: 0 40px; }
+.car_inq_form { padding: 30px 0; }
+.car_inq_form form button.gold_btn { width: 100%; }
+.car_inq_form form .form_field { margin-bottom: 20px; }
+.car_inq_form form .form_field label { padding-bottom: 12px; color: var(--dark); font-size: 15px; text-transform: uppercase; font-weight: 600; }
+.car_inq_form form .form_field input { width: 100%; padding: 0 16px; height: 48px; background: var(--white); border: 1px solid var(--white-gray); border-radius: 5px; font-size: 15px; font-weight: 400; color: var(--light-dark); }
+.car_inq_form form .form_field input.wp_checkbox { width: auto; height: auto; padding: 0; margin: 15px 15px 0 0; background: var(--dark); border: 1px solid var(--white-gray); border-radius: 5px; font-size: 15px; font-weight: 400; color: var(--light-dark); }
+.car_inq_form form .form_field label.wp_label { padding-bottom: 0; }
+.car_inq_form form .form_field.phone input { border-radius: 0 5px 5px 0; }
+.car_inq_form form .form_field.phone .dropdown .dropdown-toggle { display: flex; align-items: center; height: 48px; background: #E2E2E2; border: 1px solid #C6C6C6; border-radius: 5px 0px 0px 5px; }
+.select_car .car_inq img { width: 100%; border-radius: 30px 30px 0px 0px; }
+.select_car .car_inq .car_inq_txt { background: #FFFFFF; border: 2px solid #CBAB53; border-top: 0; box-shadow: 0px 5px 25px #E9E9E9; border-radius: 0px 0px 30px 30px; padding: 20px; }
+.select_car .car_inq .car_inq_txt h3 { color: var(--dark); line-height: 30px; font-size: 20px; font-weight: 700; padding-bottom: 20px; }
+.select_car .car_inq .car_inq_txt ul { padding: 0; padding-top: 20px; border-top: 1px solid #DADADA; margin: 0; }
+.select_car .car_inq .car_inq_txt ul li { display: flex; align-items: center; list-style: none; color: #636872; line-height: 32px; font-size: 15px; font-weight: 400; }
+.select_car .car_inq .car_inq_txt ul li .rigth_icon { padding-right: 15px; color: var(--pur-golden); font-size: 18px; }
+
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< most rent car End <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< most rent car End <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+.company_service { padding: 40px 0; }
+.company_service .all_service { display: flex; flex-wrap: wrap; align-items: center; text-align: center; justify-content: space-between; padding: 0 20px; }
+.company_service .all_service .service_list { width: auto; }
+.company_service .all_service .service_list img { padding-bottom: 20px; }
+.company_service .all_service .service_list p { color: var(--dark); line-height: 16px; font-size: 16px; font-weight: 600;  }
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< most rent car End <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< About comany Start <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+.about_company { background-color: #FFFDEA; padding: 60px 0; }
+.about_company .about_comany_img img { width: 100%; }
+.about_company .about_scroll_fix { height: 460px; overflow-y: scroll; }
+.about_company .company_about_txt h1 { padding-bottom: 20px; color: var(--dark); line-height: 40px; font-size: 40px; font-weight: 700; text-transform: capitalize; }
+.about_company .company_about_txt p { color: #636872; line-height: 33px; font-size: 17px; font-weight: 400; }
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< About comany End <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Latest Car Rental start <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+.most_rent_car_list.latest_car_rental { background-image: none; margin-bottom: 0; }
+.latest_car_rental .most_rent_car { margin: 0 6px; }
+.latest_car_rental .car_rental_items .owl-nav .owl-prev { position: absolute; left: -70px; top: 50%; transform: translateY(-50%); font-size: 26px; font-weight: 700; color: var(--white); width: 40px; height: 40px; border-radius: 20px; background-image: var(--gold-gradiant); }
+.latest_car_rental .car_rental_items .owl-nav .owl-next { position: absolute; right: -70px; top: 50%; transform: translateY(-50%); font-size: 26px; font-weight: 700; color: var(--white); width: 40px; height: 40px; border-radius: 20px; background-image: var(--gold-gradiant); }
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Latest Car Rental End <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< client about Start <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+.clients_testimonial .client_title { text-align: center; }
+.clients_testimonial .comment_btn { text-align: center; }
+.clients_testimonial .client_title h1 { color: var(--dark); line-height: 40px; font-size: 40px; font-weight: 700; }
+.clients_testimonial .client_title h4 { line-height: 22px; font-size: 22px; font-weight: 700; color: var(--pur-golden); padding: 30px 0 15px 0; }
+.clients_testimonial .client_title p { color: var(--dark); line-height: 16px; font-size: 16px; font-weight: 400; }
+.clients_testimonial .tectimonial_slider { padding: 40px 0; }
+.clients_testimonial .tectimonial_slider .our_client { border-radius: 5px; border: 1px solid #E0E0E0; background: #FFFFFF; padding: 15px; margin: 0 10px; height: 302px; width: 388px; }
+.clients_testimonial .tectimonial_slider .our_client .client_name { display: flex; align-items: center; justify-content: space-between; }
+.clients_testimonial .tectimonial_slider .our_client .client_name .profile { display: flex; align-items: center; }
+.clients_testimonial .tectimonial_slider .our_client .client_name .profile img { margin-right: 15px; width: 45px; }
+.clients_testimonial .tectimonial_slider .our_client .client_name .profile span { color: var(--dark); line-height: 18px; line-height: 18px; font-weight: 600; }
+.clients_testimonial .tectimonial_slider .our_client .client_name .profile span p {  color: #636872; padding-top: 4px; line-height: 13px; font-size: 13px; font-weight: 400; }
+.clients_testimonial .tectimonial_slider .our_client .client_txt img { padding: 15px 0; width: 150px; }
+.clients_testimonial .tectimonial_slider .our_client .client_txt p { color: var(--dark); line-height: 25px; font-size: 15px; font-weight: 400; }
+.clients_testimonial .tectimonial_slider .owl-nav .owl-prev { position: absolute; left: -70px; top: 50%; transform: translateY(-50%); font-size: 26px; font-weight: 700; color: var(--white); width: 40px; height: 40px; border-radius: 20px; background-image: var(--gold-gradiant); }
+.clients_testimonial .tectimonial_slider .owl-nav .owl-next { position: absolute; right: -70px; top: 50%; transform: translateY(-50%); font-size: 26px; font-weight: 700; color: var(--white); width: 40px; height: 40px; border-radius: 20px; background-image: var(--gold-gradiant); }
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< client about End <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< car_rent_rule Start <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+.car_rent_rule { padding: 40px 0; }
+.car_rent_rule .car_rent_rule_bg { background-image: url(../assets/frontend/image/car-rental-FAQ.webp); background-position: center; background-repeat: no-repeat; background-size: cover; position: relative; height: 720px; overflow: hidden; }
+.car_rent_rule .car_rent_rule_bg img { width: 100%; background-position: center; background-size: cover; background-repeat: no-repeat; }
+.car_rent_rule .car_rent_rule_txt { position: absolute; top: 50%; left: 50%; transform: translate(-50% , -50%); }
+.car_rent_rule .car_rent_rule_txt h1 { color: var(--white); line-height: 50px;  text-transform: capitalize; text-transform: capitalize; font-weight: 700; }
+.car_rent_rule .car_rent_rule_txt .rule_details { display: flex; align-items: start; padding: 50px 0; }
+.car_rent_rule .car_rent_rule_txt .rule_details .rule_details_list.list_right { margin-right: 60px; }
+.car_rent_rule .car_rent_rule_txt .rule_details .rule_details_list h3 { padding-bottom: 30px; color: var(--golden-light-color); line-height: 20px; font-size: 25px; font-weight: 700; }
+.car_rent_rule .car_rent_rule_txt .rule_details .rule_details_list ul { padding: 0; margin-bottom: 0; }
+.car_rent_rule .car_rent_rule_txt .rule_details .rule_details_list ul li { list-style: none; color: var(--white); line-height: 35px; font-size: 16px; font-weight: 600; }
+.car_rent_rule .car_rent_rule_txt .rule_details .rule_details_list ul li .rigth_icon { color: #00E833; margin-right: 17px; }
+.car_rent_rule .car_rent_rule_txt .car_rent_age { border-radius: 10px; border: 2px solid #FFFFFF; padding: 30px; background: linear-gradient(90deg, #CBAB53 0%, #F8CD59 100%); }
+.car_rent_rule .car_rent_rule_txt .car_rent_age .car_rent_age_txt { display: flex; align-items: center; }
+.car_rent_rule .car_rent_rule_txt .car_rent_age .car_rent_age_txt h1 { color: var(--white); margin-right: 30px; line-height: 160px; font-size: 160px; font-weight: 900; }
+.car_rent_rule .car_rent_rule_txt .car_rent_age .car_rent_age_txt h2 { color: var(--dark); line-height: 60px; font-size: 40px; font-weight: 700; }
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< car_rent_rule End <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< why Choose section Start <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+.whay_choose { padding-bottom: 40px; }
+.whay_choose .whay_choose_title { color: var(--dark); line-height: 40px; font-size: 40px; font-weight: 700; text-align: center; padding-bottom: 40px; }
+.whay_choose .company_credit { text-align: center; }
+.whay_choose .company_credit .company_icon { display: flex; align-items: center; justify-content: center; width: 126px; height: 126px; background-color: var(--golden-color); border-radius: 50%; margin: 0 auto; }
+.whay_choose .company_credit h3 { width: 60%; margin: 0 auto; color: var(--dark); line-height: 30px; font-size: 20px; font-weight: 700; padding: 20px 0; }
+.whay_choose .company_credit p { color: #636872; line-height: 26px; font-size: 15px; font-weight: 400; }
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< why Choose section End <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Car Type page Start <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< free_delivery Start <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+.free_delivery .car_delivery { padding: 20px 0 0 0; display: flex; justify-content: space-between; align-items: center; }
+.free_delivery .car_delivery .free_delivery_txt h1 { color: var(--dark); line-height: 40px; font-size: 40px; font-weight: 700; padding-bottom: 12px; padding-right: 34px;}
+.free_delivery .car_delivery .free_delivery_txt p { color: #636872; line-height: 16px; font-size: 16px; font-weight: 400; }
+.free_delivery .car_delivery .car_list_show p { color: #636872; line-height: 20px; font-size: 20px; font-weight: 500; }
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< free_delivery End <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< recommended car Start <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+.recommended_car { background-image: none; margin-bottom: 0; }
+.recommended_car .main_title { text-align: left; color: var(--dark); line-height: 30px; font-size: 30px; font-weight: 700; }
+.recommended_car .recommended_car_list .owl-nav .owl-prev { position: absolute; top: 50%; left: 20px; font-weight: 800; transform: translateY(-50%); font-size: 30px; color: var(--white); }
+.recommended_car .recommended_car_list .owl-nav .owl-next { position: absolute; top: 50%; right: 20px; font-weight: 800; transform: translateY(-50%); font-size: 30px; color: var(--white); }
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< recommended car End <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< best_car_deal Start <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+.best_car_deal .most_rent_car { display: flex; align-items: center; justify-content: space-between ; }
+.best_car_deal .most_rent_car .rent_car_img { width: 33.33%; border-radius: 30px 0 0 30px; }
+.best_car_deal .most_rent_car .most_rent_car_details { width: 67.33%; height: 232px; display: flex; align-items: center;  justify-content: space-between; border-radius: 0px 30px 30px 0; padding: 0 20px; }
+.best_car_deal .most_rent_car .rent_car_img .brand_car { z-index: 10; position: absolute; bottom: 10px; right: 10px; width: 30px; }
+.best_car_deal .most_rent_car .contact_info { margin-top: 20px; }
+.best_car_deal .most_rent_car .contact_info a.call { border-radius: 30px 0 0 30px; }
+.best_car_deal .most_rent_car .contact_info a.msg_send { border-radius: 0 30px 30px 0; }
+.best_car_deal .most_rent_car .most_rent_car_details .car_full_details .car_service { margin-bottom: 20px; }
+.most_rent_car_list .most_rent_car .most_rent_car_details .car_full_details.car_details_end { display: flex; flex-direction: column-reverse; }
+.recommended_car_mobile { display: none; padding: 0; }
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< best_car_deal End <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< best_car_deal End <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+.car_rent_deal .car_rental_items .owl-nav .owl-prev { position: absolute; top: -77px; right: 60px; font-weight: 800; background-color: #00E833; font-size: 30px; color: var(--white); font-size: 26px; font-weight: 700; color: var(--white); width: 40px; height: 40px; border-radius: 20px; background-image: var(--gold-gradiant); }
+.car_rent_deal .car_rental_items .owl-nav .owl-next { position: absolute; top: -77px; right: 0; font-weight: 800; background-color: #00E833; font-size: 30px; color: var(--white); font-size: 26px; font-weight: 700; color: var(--white); width: 40px; height: 40px; border-radius: 20px; background-image: var(--gold-gradiant); }
+.car_rent_deal .most_rent_car .most_rent_car_details .car_full_details .car_facilities ul li img { width: auto; }
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< best_car_deal End <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< pagination Start <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+.car_type_pagination .pagination { display: flex; justify-content: center; margin: 0; padding-bottom: 40px; }
+.car_type_pagination .pagination li.page_active { color: var(--white); background-color: var(--pur-golden) !important; font-weight: 700; }
+.car_type_pagination .pagination li { cursor: pointer; color: var(--white); background-color: #F0F0F0; display: flex; align-items: center; padding: 0 17px; margin: 4px; display: flex; justify-content: center; border-radius: 4px; }
+.car_type_pagination .pagination li:hover { background-color: var(--pur-golden); color: var(--white); transition: 0.3s all;  }
+.car_type_pagination .pagination li:hover a { color: var(--white); transition: 0.1s all;  }
+.car_type_pagination .pagination li a { color: #636872; line-height: 20px; font-size: 20px; font-weight: 700; text-decoration: none; }
+.car_type_pagination .pagination li .page_link { line-height: 40px; text-align: center; }
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< pagination End <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< dubai_car_rent Start <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+.dubai_car_rent { background: #F0F0F0; padding: 20px; }
+.dubai_car_rent .dubai_car_rent_details .car_rent_txt { padding: 15px 0; }
+.dubai_car_rent .dubai_car_rent_details .car_rent_txt h2 { color:  var(--dark); line-height: 30px; font-size: 30px; font-weight: 700; padding-bottom: 20px; }
+.dubai_car_rent .dubai_car_rent_details .car_rent_txt p { color: #636872; line-height: 27px; font-size: 17px; font-weight: 400; margin: 0; }
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< dubai_car_rent End <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Contact us page Start <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Contact-us Start <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+.company_contact_us .contact_us .main_title { color: var(--dark); line-height: 40px; font-size: 40px; font-weight: 700; text-align: center; padding: 40px 0; }
+.company_contact_us .contact_us .contact_map { height: 700px; position: relative; }
+.company_contact_us .contact_us .contact_info_detail { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; padding: 60px 40px; box-shadow: 0px 0px 20px #EAEAEA; border-radius: 10px; margin: 0 0 -80px 0; position: relative; z-index: 81; background: #fff; }
+.company_contact_us .contact_us .contact_info_detail .contact_txt { display: flex; align-items: center;  }
+.company_contact_us .contact_us .contact_info_detail .contact_txt:last-child { margin-bottom: 0; }
+.company_contact_us .contact_us .contact_info_detail .contact_txt .contact_icon { margin-right: 17px; background-image: var(--gold-gradiant); color: var(--white); line-height: 40px; text-align: center; border-radius: 50%; width: 40px; height: 40px; min-width: 40px; min-height: 40px; font-size: 16px; }
+.company_contact_us .contact_us .contact_info_detail .contact_txt p { color: var(--dark); line-height: 23px; font-size: 17px; font-weight: 600; }
+.company_contact_us .contact_us .get_in_touch { width: 400px; position: absolute; top: 80%; transform: translateY(-80%); left: 16%; z-index: 99; }
+.company_contact_us .contact_us .get_in_touch h1 { color: var(--white); line-height: 30px; font-size: 30px; font-weight: 700; text-align: center; padding-bottom: 40px; }
+.company_contact_us .contact_us .get_in_touch .contact_form { border-radius: 10px; background-color: var(--dark); padding: 40px 30px; }
+.company_contact_us .contact_us .get_in_touch .contact_form form input { width: 100%; border-radius: 5px; background: #F0F0F0; margin-bottom: 20px; padding: 16px; color: #636872; line-height: 16px; font-size: 16px; font-weight: 400; border: 0; }
+.company_contact_us .contact_us .get_in_touch .contact_form form textarea { width: 100%; height: 115px; border-radius: 5px; background: #F0F0F0; margin-bottom: 20px; padding: 16px; color: #636872; line-height: 16px; font-size: 16px; font-weight: 400; border: 0; }
+.company_contact_us .contact_us .get_in_touch .contact_form form .gold_btn { width: 100%;  }
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Contact-us End <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+
+
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Blog page Start <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Blog section Start <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+.blog_mobile { display: none; }
+.blog_section .main_title { color: #000000; line-height: 40px; font-size: 40px; font-weight: 700; text-align: center; padding: 40px 0; }
+.blog_section .all_blog { margin-bottom: 20px; }
+.blog_section .all_blog img.blog_img { width: 100%; border-radius: 20px 20px 0px 0px; }
+.blog_section .all_blog .blog_txt { border-radius: 0px 20px 20px 20px; background: #F0F0F0; padding: 15px; width: 90%; position: relative; margin-top: -30px; }
+.blog_section .all_blog .blog_txt h5 { color: var(--dark); line-height: 26px; font-size: 16px; font-weight: 700; }
+.blog_section .all_blog .blog_txt p { color: #636872; line-height: 24px; font-size: 15px; font-weight: 400; padding: 15px 0; }
+.blog_section .all_blog .blog_txt ul { padding: 0; margin: 0; display: flex; flex-wrap: wrap; align-items: center; }
+.blog_section .all_blog .blog_txt ul img { width: auto; }
+.blog_section .all_blog .blog_txt ul li { list-style: none; color: var(--night-dark);; line-height: 15px; font-size: 15px; font-weight: 500; padding-left: 15px; }
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Blog section End <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+
+
+
+
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< blog details page css start <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+.blog_details .blog_d_img img { width: 100%; }
+.blog_details .blog_detail_title { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; width: 80%; display: block; padding: 18px 0 34px 0 ; color: var(--dark); line-height: 30px; font-size: 30px; font-weight: 700; }
+.blog_details .first_txt { padding: 50px 0 0 0; }
+.blog_details .first_txt p { font-style: normal; font-weight: 400; font-size: 15px; line-height: 25px; color: var(--night-dark); padding: 10px 0; }
+.blog_details ul.more_details { padding: 0; }
+.blog_details ul.more_details li { list-style: none; }
+.blog_details ul.more_details li h2 { padding: 18px 0 34px 0 !important; color: var(--dark); line-height: 30px; font-size: 30px; font-weight: 700; padding-bottom: 20px; }
+.blog_details ul.more_details li p { font-style: normal; font-weight: 400; font-size: 15px; line-height: 25px; color: var(--night-dark); padding: 4px 0 20px 0; }
+.blog_details ul.car_tag { padding: 0; display: flex; flex-wrap: wrap; align-items: center; margin: 80px 0; }
+.blog_details ul.car_tag p { margin-right: 10px; }
+.blog_details ul.car_tag li { cursor: pointer; list-style: none; display: flex; flex-wrap: wrap; align-items: center; flex-wrap: wrap;  margin: 0 10px 0 0; font-weight: 700; text-transform: uppercase; color: #fff!important; padding: 10px; border-radius: 4px; background: #2f5aae; line-height: 1; font-size: .75em!important; display: inline-block; }
+
+.blog_details .reply_form { background-color: #f4f5f7; padding: 40px; margin-bottom: 50px; }
+.blog_details .reply_form h4 { color: var(--dark); font-size: 20px; line-height: 18px; font-weight: 700; padding-bottom: 20px; }
+.blog_details .reply_form p { font-style: normal; font-weight: 400; font-size: 15px; line-height: 25px; color: var(--night-dark); padding-bottom: 20px; }
+.blog_details .reply_form form .first_field { display: flex; align-items: center; padding: 10px 0; }
+.blog_details .reply_form form .first_field .form_field { width: 100%; display: inline-grid; }
+.blog_details .reply_form form .form_field label { font-size: 14px; color: var(--dark); padding: 5px 0; }
+.blog_details .reply_form form .first_field .form_field input {   padding: 6px; border: 2px solid var(--white-gray); border-radius: 4px; }
+.blog_details .reply_form form .form_field textarea {   padding: 6px; border: 2px solid var(--white-gray); border-radius: 4px; }
+.blog_details .reply_form form .first_field .form_field.email_field { margin: 0 10px; }
+.blog_details .reply_form form .form_field { width: 100%; display: inline-grid; }
+.blog_details .reply_form form .save_details_check { display: flex; align-items: center; padding: 10px 0; }
+.blog_details .reply_form form .save_details_check label { padding-left: 10px; font-style: normal; font-weight: 400; font-size: 15px; line-height: 25px; color: var(--night-dark); }
+.blog_details .blog_name_details { padding: 18px 0 50px 0 !important;  }
+.blog_details .blog_name_details h2 { padding: 18px 0 20px 0 !important; color: var(--dark); line-height: 20px; font-size: 30px; font-weight: 700; padding-bottom: 20px; }
+.blog_details .blog_name_details .blog_date { display: flex; flex-wrap: wrap; align-items: center; }
+.blog_details .blog_name_details .blog_date p { font-size: 14px; }
+.blog_details .blog_name_details .blog_date p.center { padding: 0 10px; }
+.blog_details .blog_name_details .blog_date p a { text-decoration: none; }
+
+.blog_details ul.next_previous { padding:  50px 0; display: flex; flex-wrap: wrap; justify-content: space-between; }
+.blog_details ul.next_previous li { list-style: none; }
+.blog_details ul.next_previous li a { text-decoration: none; font-size: 14px;  }
+.blog_details ul.next_previous li a p { text-transform: uppercase; color: var(--dark); font-size: 14px; font-weight: 500; }
+.blog_details ul.next_previous li.next_side { text-align: end; }
+
+.blog_details .reply_form form .save_details_check input[type="checkbox"] { display: block !important; }
+
+
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< blog details page css End <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+
+
+
+/* ======================================================================================================================================================================================================================================== */
+                            /* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< CSS END SHUBHAM <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+/* ========================================================================================================================================================================================================================================   */

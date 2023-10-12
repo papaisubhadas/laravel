@@ -1,0 +1,13 @@
+{
+    "name": "BannerSlideshow",
+    "alias": "bannerslideshow",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\BannerSlideshow\\Providers\\BannerSlideshowServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

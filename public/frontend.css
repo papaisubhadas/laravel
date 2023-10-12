@@ -1,0 +1,23 @@
+@import 'frontend/css/bootstrap.min.css';
+@import 'frontend/css/style.css';
+@import 'frontend/css/responsive.css';
+
+@import 'https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.css';
+@import 'https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.css';
+
+@import 'https://cdnjs.cloudflare.com/ajax/libs/flatpickr/4.2.3/flatpickr.css';
+
+@import 'frontend/css/magnific-popup.css';
+@import 'frontend/css/xzoom.css';
+
+@import 'https://cdn.jsdelivr.net/npm/sweetalert2@10.10.1/dist/sweetalert2.min.css';
+@import 'https://sachinchoolur.github.io/lightslider/dist/css/lightslider.css';
+@import 'https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css';
+
+
+@import 'https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/css/intlTelInput.css';
+@import 'https://cdnjs.cloudflare.com/ajax/libs/air-datepicker/2.2.3/css/datepicker.min.css';
+@import 'https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css';
+
+
+@import '/node_modules/@fortawesome/fontawesome-free/css/all.min.css';

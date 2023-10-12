@@ -1,0 +1,13 @@
+{
+    "name": "CarBrand",
+    "alias": "carbrand",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\CarBrand\\Providers\\CarBrandServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

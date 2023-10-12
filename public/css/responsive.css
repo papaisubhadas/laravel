@@ -1,0 +1,858 @@
+
+:root {
+    --white: #ffffff;
+    --white-gray: #DDDDDD;
+    --dark: #171A1F;
+    --light-dark: #636872;
+    --gold-gradiant:  linear-gradient(180deg, #FDD453 0%, #935019 100%);
+    --pur-golden:#CBAB53;
+    --golden-color: #FDD453;
+}
+
+
+
+@media (max-width: 1924px) {
+
+}
+
+@media (max-width: 1600px) {
+    .fill_inquiries{
+        font-size: 19px;
+    }
+.rent_luxury_car {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 50px;
+}
+.dropdown_content_fix {
+    right: 0;
+}
+}
+
+/*/ Desktop 1440px /*/
+@media (max-width: 1440px) {
+     /* navbar_css */
+    .nav-link {
+            font-size: 10px;
+        }
+
+
+    /* Contact page */
+    .company_contact_us .contact_us .get_in_touch { left: 5%; }
+}
+
+/*/ Desktop 1280px /*/
+@media (max-width: 1366px) {
+.padding_b_fix {
+    padding-bottom: 0.5rem;
+}
+.contact_info_fix .contact_info a {
+    padding: 16px 0;
+}
+    .fix_text {
+        font-size: 16px;
+    }
+    .h_fix {
+            height: 336px;
+        }
+    .img_mt_fix {
+            margin-top: 34px;
+        }
+    .about_company .about_scroll_fix {
+    height: 390px;
+    }
+    .fix_height {
+            height: 364px;
+    }
+.model_fix{
+    font-size: 16px;
+}
+section.contact_info_fix.d-none.d-md-block {
+    margin: 25px 0;
+}
+    .nav_container {
+            width: 1180px;
+        }
+    .model_fix {
+            padding-left: 12px;
+        }
+        .min_width_fix {
+        min-width: 700px !important;
+        }
+
+    /* Home page responsive */
+    .main_banner .banner_txt h1 { font-size: 64px; }
+    .car_book .car_book_form form .book_now_btn { width: 100%; text-align: center; }
+    .most_rent_car_list .most_rent_car .most_rent_car_details .car_full_details .rent_counts .rent_day { padding-right: 10px; }
+    .most_rent_car_list .most_rent_car .most_rent_car_details .car_full_details .rent_counts .rent_month { padding-left: 10px; }
+    .most_rent_car_list .most_rent_car .most_rent_car_details .car_full_details .rent_counts .rent_day span { padding-right: 0; }
+    .about_company .company_about_txt { height: 450px; }
+    .car_rent_rule .car_rent_rule_bg { height: 720px; background-position: inherit; }
+    .car_rent_rule .car_rent_rule_bg img { width: auto; }
+    .car_rent_rule .car_rent_rule_txt { width: 70%; }
+    .car_rent_rule .car_rent_rule_txt .car_rent_age{ padding: 10px; }
+    .car_rent_rule .car_rent_rule_txt .car_rent_age .car_rent_age_txt h1{ font-size: 140px; }
+    .car_brand_img img.cus_padding { padding: 10px 12px !important; }
+    .clients_testimonial .tectimonial_slider .our_client { width: auto; height: auto; }
+
+
+    /* Car type responsive */
+    .best_car_deal .most_rent_car .most_rent_car_details { height: 199px; }
+
+    /* Contact page */
+    .company_contact_us .contact_us .get_in_touch { left: 6%; }
+    .company_contact_us .contact_us .contact_info_detail .contact_txt { width: 25%; }
+
+}
+
+/*/ iPad 1024px /*/
+@media (max-width: 1199px) {
+
+    .rent_luxury_car {
+            font-style: normal;
+            font-weight: 700;
+            font-size: 26px;
+            line-height: 24px;
+        }
+    .padding_b_fix {
+            padding-bottom: 1rem;
+        }
+.about_company .about_scroll_fix {
+    height: 320px;
+}
+.branch {
+        line-height: 37px;
+}
+.min_width_fix {
+        min-width: 600px !important;
+    }
+.pl_footer_fix{
+    padding-left: 1rem;
+}
+.img_mt_fix {
+    margin-top: 35px;
+    margin-bottom: 0px !important;
+}
+.fix-daily {
+        padding: 15px 0;
+}
+    .nav_container {
+            width: 980px;
+        }
+    .font_w_fix {
+    font-size: 13px;
+    }
+
+.contact_info_fix .contact_info a {
+    padding: 0 0;
+    min-height: 45px;
+}
+
+/* navbar_css */
+    .nav-link {
+        font-size: 9px;
+    }
+    .nav-item {
+        padding: 0 15px;
+    }
+    .social_media{
+        display: flex;
+        align-items: center;
+        margin: 0 15px;
+    }
+    .email_info_fix{
+        font-size: 15px;
+    }
+
+    .email_info{
+        display: flex;
+        align-items: center;
+        margin-left: 22px;
+    }
+    .font_service{
+        font-size: 9px;
+    }
+
+    /* Car Details */
+        .model_fix {
+            font-size: 12px;
+            padding-left: 8px;
+        }
+        .fix_text{
+            font-size: 14px;
+        }
+        .padding_fix{
+            padding-bottom: 16px;
+        }
+        .fix_height {
+            height: auto;
+        }
+        .xzoom-gallery4,
+        .xzoom-gallery5 {
+        width: calc(20% - 13px);
+        }
+        .coupe {
+            font-size: 10px;
+        }
+        .img_fix_positions {
+            left: 70px;
+            top: 25px;
+        }
+
+
+    /* Home page responsive */
+    .main_banner .banner_txt { width: 100%; margin: 0 auto; left: 0; transform: translate(0%, -50%); }
+    .car_book .car_book_form form .form_field { width: 33.33%; margin-bottom: 10px; }
+    .car_book .car_book_form form .form_field input { width: 90%; }
+    .car_book .car_book_form form .form_field.car_type select { width: 90%; }
+    .car_book .car_book_form form .book_now_btn { width: 33.33%; }
+    .car_category .car_item_box .car_img img { width: 100%; }
+    .car_category .car_item_box p { font-size: 15px; }
+    .offer_section .offer_deal .offer_section_txt .offer_txt { width: 70%; }
+    .offer_section .offer_deal .offer_section_txt .offer_txt h2 { width: auto; font-size: 35px; line-height: 40px; }
+    .car_brand .car_brand_items .car_name .car_brand_img img { padding: 10px 16px; }
+    .car_brand .car_brand_items .car_name p { font-size: 13px; }
+    .most_rent_car_list .most_rent_car .most_rent_car_details .car_full_details .rent_counts .rent_day span { font-size: 12px; }
+    .most_rent_car_list .most_rent_car .most_rent_car_details .car_full_details .car_service ul li { line-height: 28px; font-size: 14px; }
+    .most_rent_car_list .most_rent_car .contact_info a { min-height: 45px; }
+    .most_rent_car_list .most_rent_car .most_rent_car_details .car_full_details .brand_name h4 { font-size: 16px; }
+    .most_rent_car_list .most_rent_car .most_rent_car_details .car_full_details .brand_name img { min-height: 28px; }
+    .most_rent_car_list .most_rent_car .contact_info a { min-height: auto; }
+    .about_company .company_about_txt { height: 360px; }
+    .most_rent_car_list .most_rent_car .most_rent_car_details .car_full_details .car_facilities ul li img { width: auto !important; }
+    .latest_car_rental .car_rental_items .owl-nav .owl-next, .latest_car_rental .car_rental_items .owl-nav .owl-prev { display: none; }
+    .clients_testimonial .tectimonial_slider .owl-nav .owl-next, .clients_testimonial .tectimonial_slider .owl-nav .owl-prev { display: none; }
+    .car_rent_rule .car_rent_rule_txt { left: 0; transform: translate(0 , -50%); width: 100%; margin: 0 auto; padding: 70px; }
+    .whay_choose .company_credit h3 { width: 90% !important; min-height: 100px; }
+    .car_book .car_book_form form .form_field.date img { right: 50px; }
+    .car_brand_img img.cus_padding { padding: 10px 6px !important; }
+
+
+    /* Car type responsive */
+    .best_car_deal .most_rent_car .most_rent_car_details { height: 168px; }
+    .best_car_deal .most_rent_car .most_rent_car_details .car_full_details .rent_counts { padding: 10px 0; }
+    .best_car_deal .most_rent_car .contact_info { margin: 10px 0 0 0; }
+    .most_rent_car_list .most_rent_car .rent_car_img .special_offer { width: 60px; }
+    .best_car_deal .most_rent_car .most_rent_car_details .car_full_details .car_facilities ul { padding: 0; }
+    .best_car_deal .most_rent_car .most_rent_car_details .car_full_details .car_service ul li { font-size: 13px; }
+    .free_delivery .car_delivery .free_delivery_txt h1 { font-size: 34px; }
+    .dubai_car_rent .dubai_car_rent_details .car_rent_txt h2 { font-size: 26px; }
+    .dubai_car_rent .dubai_car_rent_details .car_rent_txt p { font-size: 16px; }
+
+    /* Contact page */
+    .company_contact_us .contact_us .get_in_touch { left: 5%; }
+    .company_contact_us .contact_us .contact_info_detail .contact_txt { width: 50%; margin-bottom: 20px; }
+
+}
+
+/*/ iPad 768px /*/
+@media (max-width: 991px) {
+.btn_fix_book {
+    padding: 12px 20px;
+    font-size: 13px;
+}
+.rent_luxury_car{
+  font-size: 23px;
+}
+.carousel-caption {
+    top: 50%;
+    }
+.fill_inquiries {
+    padding-top: 13px;
+    padding-bottom: 15px;
+    line-height: 25px;
+}
+.car_rent_rule .car_rent_rule_txt .rule_details .rule_details_list h3{
+    line-height: 30px;
+}
+.about_company .about_scroll_fix {
+        height: 210px;
+    }
+.margin_top_40 {
+    margin-top: 20px;
+}
+.driving_licenses_fix {
+font-size: 30px;
+    }
+.finder {
+font-size: 13px;
+line-height: 27px;
+}
+
+.img_fix_positions {
+left: 100px;
+top: 0;
+}
+.min_width_fix_cartype {
+        min-width: 300px !important;
+    }
+            .min_width_fix {
+                    overflow-y: scroll;
+                    height: 260px;
+                }
+    .text-fix {
+            text-align: center;
+        }
+    /* navbar */
+    .navbar_none{
+        display: none;
+    }
+    .nav-link {
+        font-size: 15px;
+    }
+    .navbar_none_m {
+        display: block;
+    }
+    .menu_position_fix{
+    position: absolute;
+    top: 94px;
+    width: 100%;
+    background: #fff;
+    z-index: 9999;
+}
+.social_media {
+    margin: 0 25px;
+    }
+    .social_media_footer {
+        margin: 30px 25px;
+        display: flex;
+        justify-content: center;
+    }
+    .last_footer{
+    display: flex;
+    justify-content: center;
+    }
+    .flex_d_order{
+        order: 3;
+        padding-top: 11px;
+    }
+    .footer-widget ul {
+        padding-left: 7px;
+    }
+
+/* car details css */
+
+.rent_lamborghini {
+    font-size: 21px;
+}
+.lembor_Deposit {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.car_lambor ul li {
+    font-size: 11px
+}
+.car_lambor ul li .rigth_icon {
+    padding-right: 10px;
+    font-size: 15px;
+}
+    /* car details */
+    .bg_color_rent {
+        padding: 30px 15px;
+    }
+        .fix_bg_set {
+            padding: 15px 14px;
+        }
+    .coupe {
+        font-size: 16px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            display: block;
+            padding: 0 0 0 11px !important;
+    }
+    .color_hr{
+        display: none;
+    }
+.flag_fix {
+    font-size: 9px;
+    display: flex;
+}
+
+    /* Home page responsive */
+    .main_banner .banner_image {height: 400px;}
+    .car_category .car_item_box {margin-bottom: 10px;}
+    .offer_section .offer_deal .offer_book {display: none;}
+    .offer_section .offer_deal .offer_section_txt {width: 60%;}
+    .offer_section .offer_deal .offer_image {width: 40%;}
+    .offer_section .offer_deal .offer_section_txt .offer_txt {width: 100%;}
+    .offer_section .offer_deal .offer_section_txt .offer_txt h2 {font-size: 28px;line-height: 36px;}
+    .car_brand .car_brand_items .car_name .car_brand_img img {padding: 10px 56px;}
+    .about_company .company_about_txt {height: 260px;}
+    .about_company .company_about_txt h1 {font-size: 30px;}
+    .about_company .company_about_txt p {line-height: 30px;}
+    .most_rent_car_list { padding: 40px 0; }
+    .most_rent_car_list .main_title {font-size: 34px;}
+    .clients_testimonial .client_title h1 {font-size: 34px;}
+    .whay_choose .company_credit {margin: 20px 0;}
+    .car_book .car_book_form form .form_field.car_type .dropdown { width: 100%; }
+    .car_book .car_book_form form .form_field.car_type .dropdown a.dropdown-toggle { width: 90%; }
+    .car_brand_img img.cus_padding { padding: 10px 46px !important; }
+    .company_service .all_service .service_list p { font-size: 14px; }
+
+
+    /* Car type page */
+    .recommended_car_mobile { display: block; padding: 0; }
+    .best_car_deal.recommended_car_desktop { display: none !important; padding: 0; }
+    .free_delivery .car_delivery { display: block; }
+    .free_delivery .car_delivery .car_list_show p { padding-top: 30px; }
+    .most_rent_car_list .main_title { font-size: 28px; padding-bottom: 20px; }
+    .free_delivery .car_delivery .free_delivery_txt h1 { border-right: 0; padding-right: 0; }
+
+    /* Contact page */
+    .company_contact_us .contact_us .contact_info_detail { padding: 20px 10px; }
+    .company_contact_us .contact_us .contact_info_detail .contact_txt p { font-size: 15px; }
+
+
+    .blog_details_top_image { width: 100% !important; }
+}
+
+/*/ Iphone 767px /*/
+@media (max-width: 767px) {
+    .cardcontinfo {
+        position: fixed;
+        bottom: 9px;
+        width: 100%;
+        left: 0;
+        right: 0;
+        z-index: 99;
+        padding: 0 25px;
+    }
+    .img_mt_fix {
+            margin-top: 10px;
+            margin-bottom: 0px !important;
+        }
+    .finder {
+            font-size: 11px;
+    }
+    .flag_fix {
+            font-size: 16px;
+        }
+    .foreign_visitors {
+        font-size: 13px;
+    }
+    .font_w_fix {
+        font-size: 12px;
+    }
+
+    /* FAQ */
+    .faq{
+        text-align: center;
+    }
+
+    /* car details */
+        .car_lambor ul li {
+                font-size: 14px;
+            }
+        .rd_btn_fix {
+            margin-top: 0px;
+        }
+    .img_fix_positions {
+        left: 100px;
+        top: 5px;
+    }
+
+     /* footer */
+    .footer-widget ul li {
+            width: 100%;
+        }
+        .footer-widget ul {
+            padding-top: 23px;
+        }
+        #button {
+            right: 0;
+        }
+        .border_left_fix_car {
+          border: none;
+          padding-left: 15px;
+          padding-right: 15px;
+        }
+
+    /* Home page responsive */
+    .main_banner .banner_image { display: none; }
+    .main_banner .banner_txt .banner_car { display: block; width: 100%; padding: 40px 150px; }
+    .main_banner .banner_txt { position: inherit; transform: translate(0); background-color: #F0F0F0; }
+    .main_banner .banner_txt h1 { padding-top: 30px; color: var(--dark); font-size: 50px; }
+    .main_banner .banner_txt p { color: #636872; padding: 20px 0 24px 0; width: 70%; margin: 0 auto; font-size: 18px; line-height: 24px; }
+    .car_book { margin: 10px; border-radius: 30px; }
+    .car_book .car_book_form form .form_field { width: calc(50% - 10px); margin: 0 10px 10px 0; }
+    .car_book .car_book_form form .form_field input { width: 100%; }
+    .car_book .car_book_form form .form_field.car_type select { width: 100%; }
+    .car_book .car_book_form form .book_now_btn { width: 50%; }
+    .car_book .car_book_form form .book_now_btn button { width: 100%; }
+    .car_category .car_item_box .car_img img { width: auto; }
+    .offer_section .offer_deal .offer_section_txt .offer_txt h1 { font-size: 40px; padding-bottom: 6px; }
+    .offer_section .offer_deal .offer_section_txt .offer_txt h2 { font-size: 18px; line-height: 30px; }
+    .car_brand .car_brand_items .car_name .car_brand_img img { padding: 10px 36px; }
+    .company_service .all_service .service_list { width: 33.33%; padding: 0 0 20px 0; }
+    .about_company .about_comany_img img { margin-bottom: 20px; }
+    .most_rent_car_list .main_title { font-size: 30px; text-align: center; }
+    .whay_choose .company_credit h3 { width: 100%; min-height: auto; }
+    .offer_section .offer_deal .offer_image::after { z-index: 10; top: 0; left: 0; width: 6px; }
+    .offer_section .offer_deal .offer_image img { width: auto; position: relative; right: 30%; height: 202px; }
+    .offer_section .offer_deal .offer_image { overflow: hidden; border-radius: 0px 10px 10px 0px; }
+    .car_book .car_book_form form .form_field.car_type .dropdown a.dropdown-toggle { width: 100%; }
+    .car_brand_img img.cus_padding { padding: 10px 26px !important; }
+
+
+
+    /* Car type page */
+    .free_delivery .car_delivery .free_delivery_txt h1 { font-size: 32px; }
+    .car_type_pagination .pagination li:nth-child(5)  { display: none; }
+    .car_type_pagination .pagination li:nth-child(6)  { display: none; }
+    .car_type_pagination .pagination li:nth-child(7)  { display: none; }
+    .dubai_car_rent { padding: 20px 0; }
+    .car_rent_deal .car_rental_items .owl-nav .owl-prev, .car_rent_deal .car_rental_items .owl-nav .owl-next { display: none; }
+
+    /* Contact page */
+    .company_contact_us .contact_us .contact_info_detail .contact_txt { width: 100%; }
+    .company_contact_us .contact_us .contact_info_detail { padding: 20px 30px; margin: 0 0 20px 0 ; }
+    .company_contact_us .contact_us .contact_map { height: auto; position: inherit; }
+    .company_contact_us .contact_us .get_in_touch { position: initial;  transform: translate(0); width: 100%; padding: 40px; }
+
+
+    /* Blog page */
+    .blog_desktop { display: none; }
+    .blog_mobile { display: block; }
+    .blog_section .main_title { text-align: start; }
+    .blog_mobile .bolg_view .owl-nav .owl-prev { position: absolute; right: 50px; top: -80px; font-size: 26px; font-weight: 700; color: var(--white); width: 40px; height: 40px; border-radius: 20px; background-image: var(--gold-gradiant); }
+    .blog_mobile .bolg_view .owl-nav .owl-next { position: absolute; right: 0; top: -80px; font-size: 26px; font-weight: 700; color: var(--white); width: 40px; height: 40px; border-radius: 20px; background-image: var(--gold-gradiant); }
+
+    }
+
+@media (max-width: 724px) {
+    .fill_inquiries {
+            font-size: 15px;
+        }
+    .btn_fix_book{
+    padding: 12px 20px;
+    font-size: 13px;
+    }
+    .rent_luxury_car {
+            font-size: 25px;
+        }
+    .footer-widget ul li a {
+            font-size: 12px;
+        }
+    .min_width_fix {
+    min-width: 550px !important;
+    }
+.fill_inquiries {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+}
+
+/*/ Iphone 414px /*/
+@media (max-width: 567px) {
+    .fill_inquiries {
+            font-size: 12px;
+            line-height: 16px;
+        }
+    .rent_luxury_car {
+            font-size: 13px;
+            line-height: 13px;
+        }
+    .fill_inquiries {
+            padding-top: 15px;
+            padding-bottom: 8px;
+        }
+        .min_width_fix {
+        min-width: 300px !important;
+        overflow-y: scroll;
+        height: 170px;
+        }
+    .content {
+            width: 43%;
+        }
+
+        #button {
+            margin: 30px 11px;
+        }
+
+    .content h1 {
+        margin-bottom: -10px;
+        color: #03a9f4;
+        line-height: 1.5;
+    }
+
+    .content h3 {
+        font-style: italic;
+        color: #96a2a7;
+    }
+
+    /* Home page responsive */
+    .main_banner .banner_txt .banner_car { padding: 40px 80px; }
+    .most_rent_car_list .most_rent_car .most_rent_car_details .car_full_details .rent_counts .rent_day { padding-right: 40px; }
+    .most_rent_car_list .most_rent_car .most_rent_car_details .car_full_details .rent_counts .rent_month { padding-right: 0; padding-left: 40px; }
+    .most_rent_car_list .most_rent_car .most_rent_car_details .car_full_details .rent_counts .rent_day span { font-size: 18px; }
+    .clients_testimonial .client_title h1 { font-size: 30px; }
+    .clients_testimonial .client_title h4 { padding: 20px 0 15px 0; }
+    .car_rent_rule .car_rent_rule_txt .rule_details { display: block; }
+    .car_rent_rule .car_rent_rule_txt .rule_details .rule_details_list.list_right { margin: 0; padding-bottom: 30px; }
+    .car_rent_rule .car_rent_rule_txt .car_rent_age .car_rent_age_txt { display: block; text-align: center; }
+    .car_rent_rule .car_rent_rule_bg { height: 1000px; background-image: url(../assets/image/webp/car_rent_rule_bg_phone.webp); }
+    .car_rent_rule .car_rent_rule_txt h1 { line-height: 32px; }
+    .car_rent_rule .car_rent_rule_bg img { height: 1000px; width: auto; position: relative; right: 50%; }
+    .car_rent_rule .car_rent_rule_txt .car_rent_age .car_rent_age_txt h1 { font-size: 130px; line-height: 120px; margin-right: 0; }
+    .car_rent_rule .car_rent_rule_txt .car_rent_age .car_rent_age_txt h2 { line-height: 33px; font-size: 23px; }
+    .most_rent_car_list.latest_car_rental { padding: 40px 0; }
+    .most_rent_car_list { padding: 40px 0 ; }
+    .car_book .car_book_form form .form_field { width: 100%; }
+    .car_book .car_book_form form .book_now_btn { width: 100%; }
+    .car_book .car_book_form form .form_field.date img { right: 20px; }
+    .flatpickr-calendar { width: 350px !important; }
+    .flatpickr-weekday { font-size: 12px !important;  }
+    .flatpickr-current-month .flatpickr-monthDropdown-months, .flatpickr-current-month input.cur-year { font-size: 16px !important; }
+    .car_brand .car_brand_items .car_name .car_brand_img { padding: 10px 8px; height: 70px; }
+    .offer_section .offer_deal .offer_section_txt { padding: 20px 10px; }
+    .offer_section .offer_deal .offer_image img { height: 190px; }
+    .clients_testimonial .tectimonial_slider .our_client .client_txt img { width: 120px; }
+    .car_inq_modal .modal-body { padding: 0 20px; }
+    .select_car .car_inq .car_inq_txt h3 { font-size: 19px; }
+    .car_brand_img img.cus_padding { padding: 10px 6px !important; }
+
+
+
+    /* Car type page */
+    .free_delivery .car_delivery .free_delivery_txt h1 { font-size: 22px; padding: 0; }
+    .free_delivery .car_delivery .free_delivery_txt p { font-size: 14px; }
+    .free_delivery .car_delivery .car_list_show p { padding: 16px 0; font-size: 16px;  }
+    .most_rent_car_list .main_title { font-size: 24px; }
+
+    /* Contact page */
+    .company_contact_us .contact_us .contact_map .map_fix { height: 260px; }
+    .company_contact_us .contact_us .main_title { font-size: 30px; }
+    .company_contact_us .contact_us .contact_info_detail { padding: 10px; }
+    .company_contact_us .contact_us .get_in_touch { padding: 40px 15px; }
+    .company_contact_us .contact_us .get_in_touch .contact_form form input { padding: 10px; font-size: 14px; }
+    .company_contact_us .contact_us .contact_info_detail .contact_txt .contact_icon { width: 30px; margin-right: 10px; height: 30px; min-width: 30px; min-height: 30px; font-size: 13px; line-height: 30px; }
+
+
+
+}
+@media (max-width:445px) {
+.carousel-caption {
+        top: 43%;
+    }
+.btn_fix_book {
+    padding: 8px 16px;
+    font-size: 12px;
+}
+
+.fill_inquiries {
+    font-size: 11px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    line-height: 16px;
+}
+}
+@media (max-width:426px) {
+    .documents {
+            font-size: 24px;
+    }
+    .w_fix {
+        width: 77%;
+    }
+    .font_w_fix {
+            font-size: 10px;
+        }
+
+
+    /* Home page responsive */
+    .main_banner .banner_txt h1 { font-size: 38px; }
+    .main_banner .banner_txt p { width: auto; }
+    .main_banner .banner_txt .banner_car { padding: 40px 15px; }
+    .offer_section .offer_deal .offer_section_txt .offer_txt h1 { font-size: 34px; }
+    .offer_section .offer_deal .offer_section_txt .offer_txt h2 { font-size: 13px; line-height: 24px; }
+    .car_brand .car_brand_items .car_name .car_brand_img img { padding: 10px 14px; }
+    .latest_car_rental { padding-top: 40px; }
+    .company_service .all_service .service_list { width: 50%; }
+    .company_service .all_service .service_list:last-child { width: 100%; }
+    .most_rent_car_list .main_title { font-size: 26px; }
+    .most_rent_car_list .most_rent_car .most_rent_car_details .car_full_details .rent_counts .rent_day { padding-right: 10px; }
+    .most_rent_car_list .most_rent_car .most_rent_car_details .car_full_details .rent_counts .rent_month { padding-right: 0; padding-left: 10px; }
+    .most_rent_car_list .most_rent_car .most_rent_car_details .car_full_details .rent_counts .rent_day span { font-size: 14px; }
+    .car_rent_rule .car_rent_rule_txt { padding: 0 20px; }
+    .car_rent_rule .car_rent_rule_txt .rule_details .rule_details_list ul li { font-size: 15px; }
+    .car_rent_rule .car_rent_rule_txt .rule_details .rule_details_list h3 { padding-bottom: 18px; }
+    .car_rent_rule .car_rent_rule_txt .car_rent_age .car_rent_age_txt h2 { line-height: 30px; font-size: 23px; }
+    .car_category .car_item_box .car_img img { width: 100%; }
+    .car_rent_deal .car_rental_items .owl-nav .owl-prev { display: none; }
+    .car_rent_deal .car_rental_items .owl-nav .owl-next { display: none; }
+    .most_rent_car_list .most_rent_car .most_rent_car_details .car_full_details .rent_counts .rent_day p del { font-size: 13px; }
+    .flatpickr-calendar { width: 350px !important; }
+    .about_company .company_about_txt h1 { font-size: 25px; }
+    .about_company .company_about_txt p { font-size: 16px; line-height: 26px; }
+    .clients_testimonial .client_title h1 { font-size: 24px; }
+    .car_rent_rule .car_rent_rule_bg { height: 830px; }
+
+
+
+}
+
+@media (max-width:411px) {
+    .car_lambor ul li {
+            font-size: 12px;
+        }
+
+}
+
+/*/ Mobile 375px /*/
+@media (max-width: 375px) {
+.fill_inquiries {
+        font-size: 9px;
+        padding-top: 3px;
+        padding-bottom: 8px;
+        line-height: 12px;
+    }
+.rent_luxury_car {
+    font-size: 15px;
+}
+.logo_max_width_200 {
+        max-width: 100%;
+    }
+.delivery_pickup {
+    font-size: 16px;
+    line-height: 15px;
+}
+.branch {
+    font-size: 15px;
+}
+.w_fix {
+        width: 88%;
+}
+.menu_position_fix {
+        top: 88px;
+    }
+
+    /*car details */
+    .car_lambor ul li {
+        font-size: 12px;
+    }
+    .menu_position_fix {
+        top: 88px;
+    }
+        .coupe {
+        font-size: 13px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        }
+
+    /* Home page responsive */
+    .main_banner .banner_txt h1 { font-size: 32px; }
+    .main_banner .banner_txt p { padding: 20px 15px 24px 15px; font-size: 16px; }
+    .offer_section .offer_deal .offer_section_txt .offer_txt h1 { font-size: 28px; line-height: 40px; }
+    .car_brand .car_brand_items .car_name .car_brand_img img { padding: 10px 8px; }
+    .most_rent_car_list .main_title { font-size: 18px; line-height: 20px; padding-bottom: 20px; }
+    .offer_section .offer_deal .offer_section_txt .offer_txt h2 { font-size: 16px; }
+    .offer_section .offer_deal .offer_image img { height: 180px; right: 40%; }
+    .whay_choose .whay_choose_title { font-size: 30px; padding-bottom: 10px; }
+    .whay_choose .company_credit .company_icon { width: 106px; height: 106px; }
+    .car_brand .car_brand_items .owl-nav .owl-prev { width: 30px; height: 30px; line-height: 30px; }
+    .car_brand .car_brand_items .owl-nav .owl-next { width: 30px; height: 30px; line-height: 30px; }
+    .car_brand .car_brand_items { padding: 0 40px; }
+    .flatpickr-calendar { width: 300px !important; }
+    .car_brand .car_brand_items .car_name .car_brand_img { padding: 10px 14px; height: 60px; }
+    .car_rent_rule .car_rent_rule_bg { height: 900px; }
+    .select_car .car_inq .car_inq_txt ul li { line-height: 24px; }
+    .car_inq_form { padding: 20px 0; }
+    .select_car .car_inq .car_inq_txt ul { padding-top: 10px; }
+    .select_car .car_inq .car_inq_txt h3 { padding-bottom: 10px; line-height: 24px; }
+    .car_inq_form form .form_field input { height: 38px; }
+    .car_inq_form form .form_field.phone .dropdown .dropdown-toggle { height: 38px; }
+    .car_inq_form form .form_field { margin-bottom: 14px; }
+    .car_inq_form form .form_field label { padding-bottom: 8px; font-size: 14px; }
+    .car_brand_img img.cus_padding { padding: 10px 0px !important; }
+
+
+
+
+    /* Car type page */
+    .free_delivery .car_delivery .free_delivery_txt h1 { font-size: 22px; }
+    .free_delivery .car_delivery .free_delivery_txt p { font-size: 13px; }
+    .free_delivery .car_delivery .car_list_show p {padding: 12px 0; font-size: 18px; }
+    .dubai_car_rent .dubai_car_rent_details .car_rent_txt h2 { font-size: 22px; line-height: 26px; padding-bottom: 10px;  }
+    .dubai_car_rent .dubai_car_rent_details .car_rent_txt p { font-size: 15px; }
+
+
+    /* contact us page */
+    .company_contact_us .contact_us .contact_info_detail .contact_txt p { font-size: 13px; }
+
+
+}
+
+/*/ Mobile 320px /*/
+@media (max-width: 374px) {
+.carousel-caption {
+        top: 42%;
+    }
+.rent_luxury_car {
+    font-size: 10px;
+    line-height: 13px;
+}
+.fill_inquiries {
+font-size: 8px;
+padding-top: 0px;
+padding-bottom: 5px;
+line-height: 12px;
+}
+.btn_fix_book {
+    padding: 5px 16px;
+    font-size: 11px;
+}
+.driving_licenses_fix {
+    font-size: 20px;
+    line-height: 30px;
+}
+.branch {
+font-size: 13px;
+}
+.documents {
+    font-size: 19px;
+}
+.img_fix_positions {
+left: 55px;
+top: 55px;
+}
+.menu_position_fix {
+top: 72px;
+}
+.car_lambor ul li {
+    padding-bottom: 7px;
+    padding-top: 7px;
+    line-height: 20px;
+    font-size: 9px;
+}
+        .model_fix {
+            font-size: 14px;
+        }
+
+        /* car details */
+
+    /* Home page responsive */
+    .main_banner .banner_txt h1 { font-size: 30px; }
+    .main_banner .banner_txt p { font-size: 15px; padding: 10px 15px 24px 15px; }
+    .car_brand .car_brand_items .car_name .car_brand_img img { padding: 10px 5px; }
+    .offer_section .offer_deal .offer_section_txt .offer_txt h1 { line-height: 40px; }
+    .offer_section .offer_deal .offer_section_txt .offer_txt p { font-size: 15px; }
+    .offer_section .offer_deal .offer_section_txt .offer_txt h1 { font-size: 22px; }
+    .most_rent_car_list .most_rent_car .most_rent_car_details .car_full_details .rent_counts .rent_day span { font-size: 13px; }
+    .flatpickr-calendar { width: 280px !important; }
+    .offer_section .offer_deal .offer_section_txt .offer_txt h2 { font-size: 12px; line-height: 18px; }
+    .offer_section .offer_deal .offer_section_txt .offer_txt h1 { line-height: 32px; }
+    .offer_section .offer_deal .offer_image img { right: 30%; height: 140px; }
+    .car_brand .car_brand_items .car_name .car_brand_img { padding: 10px 10px; }
+    .offer_section .offer_deal .offer_section_txt { padding: 0 10px; }
+    .car_inq_modal .modal-body { padding: 0 10px; line-height: 24px; }
+
+    /* Car type page */
+    .free_delivery .car_delivery .free_delivery_txt h1 { font-size: 19px; }
+    .most_rent_car_list .main_title { font-size: 22px; }
+    .free_delivery .car_delivery .car_list_show p { font-size: 16px; }
+
+
+}
